@@ -1,0 +1,7571 @@
+[
+  {
+    "query": "smartwatch",
+    "popularity": 9500,
+    "landing_quality": 0.95,
+    "business_priority": 0.90
+  },
+  {
+    "query": "apple",
+    "popularity": 9665,
+    "landing_quality": 0.96,
+    "business_priority": 0.94
+  },
+  {
+    "query": "samsung",
+    "popularity": 9888,
+    "landing_quality": 0.96,
+    "business_priority": 0.97
+  },
+  {
+    "query": "macbook",
+    "popularity": 9775,
+    "landing_quality": 0.99,
+    "business_priority": 0.99
+  },
+  {
+    "query": "gaming Laptop",
+    "popularity": 9775,
+    "landing_quality": 0.99,
+    "business_priority": 0.99
+  },
+  {
+    "query": "iphone",
+    "popularity": 9775,
+    "landing_quality": 0.99,
+    "business_priority": 0.99
+  },
+  {
+    "query": "Laptop",
+    "popularity": 9775,
+    "landing_quality": 0.99,
+    "business_priority": 0.99
+  },
+  {
+    "query": "sneakers",
+    "popularity": 9775,
+    "landing_quality": 0.99,
+    "business_priority": 0.99
+  },
+  {
+    "query": "shoe",
+    "popularity": 9555,
+    "landing_quality": 0.99,
+    "business_priority": 0.99
+  },
+  {
+    "query": "shoes",
+    "popularity": 9555,
+    "landing_quality": 0.99,
+    "business_priority": 0.99
+  },
+  {
+    "query": "mobile",
+    "popularity": 9999,
+    "landing_quality": 0.98,
+    "business_priority": 0.99
+  },
+  {
+    "query": "mobiles",
+    "popularity": 9950,
+    "landing_quality": 0.97,
+    "business_priority": 0.98
+  },
+  {
+    "query": "iphone",
+    "popularity": 9800,
+    "landing_quality": 0.99,
+    "business_priority": 0.99
+  },
+  {
+    "query": "iphone 15",
+    "popularity": 9500,
+    "landing_quality": 0.98,
+    "business_priority": 0.97
+  },
+  {
+    "query": "samsung mobile",
+    "popularity": 9200,
+    "landing_quality": 0.95,
+    "business_priority": 0.96
+  },
+  {
+    "query": "oneplus mobile",
+    "popularity": 8800,
+    "landing_quality": 0.92,
+    "business_priority": 0.91
+  },
+  {
+    "query": "google mobile",
+    "popularity": 8500,
+    "landing_quality": 0.90,
+    "business_priority": 0.89
+  },
+  {
+    "query": "xiaomi mobile",
+    "popularity": 8300,
+    "landing_quality": 0.88,
+    "business_priority": 0.87
+  },
+  {
+    "query": "mobile cover",
+    "popularity": 7500,
+    "landing_quality": 0.85,
+    "business_priority": 0.80
+  },
+  {
+    "query": "mobile charger",
+    "popularity": 7200,
+    "landing_quality": 0.83,
+    "business_priority": 0.78
+  },
+  {
+    "query": "laptop",
+    "popularity": 9700,
+    "landing_quality": 0.96,
+    "business_priority": 0.97
+  },
+  {
+    "query": "laptops",
+    "popularity": 9650,
+    "landing_quality": 0.95,
+    "business_priority": 0.96
+  },
+  {
+    "query": "gaming laptop",
+    "popularity": 9400,
+    "landing_quality": 0.98,
+    "business_priority": 0.99
+  },
+  {
+    "query": "macbook",
+    "popularity": 9300,
+    "landing_quality": 0.97,
+    "business_priority": 0.98
+  },
+  {
+    "query": "hp laptop",
+    "popularity": 8900,
+    "landing_quality": 0.93,
+    "business_priority": 0.92
+  },
+  {
+    "query": "dell laptop",
+    "popularity": 8700,
+    "landing_quality": 0.91,
+    "business_priority": 0.90
+  },
+  {
+    "query": "lenovo laptop",
+    "popularity": 8500,
+    "landing_quality": 0.89,
+    "business_priority": 0.88
+  },
+  {
+    "query": "asus laptop",
+    "popularity": 8200,
+    "landing_quality": 0.87,
+    "business_priority": 0.86
+  },
+  {
+    "query": "thin and light laptop",
+    "popularity": 7000,
+    "landing_quality": 0.85,
+    "business_priority": 0.82
+  },
+  {
+    "query": "2-in-1 laptop",
+    "popularity": 6800,
+    "landing_quality": 0.82,
+    "business_priority": 0.78
+  },
+  {
+    "query": "shoes",
+    "popularity": 9100,
+    "landing_quality": 0.94,
+    "business_priority": 0.93
+  },
+  {
+    "query": "sneakers",
+    "popularity": 8900,
+    "landing_quality": 0.92,
+    "business_priority": 0.90
+  },
+  {
+    "query": "running shoes",
+    "popularity": 8700,
+    "landing_quality": 0.91,
+    "business_priority": 0.89
+  },
+  {
+    "query": "casual shoes",
+    "popularity": 8500,
+    "landing_quality": 0.89,
+    "business_priority": 0.87
+  },
+  {
+    "query": "sports shoes",
+    "popularity": 8300,
+    "landing_quality": 0.87,
+    "business_priority": 0.85
+  },
+  {
+    "query": "t-shirt",
+    "popularity": 7800,
+    "landing_quality": 0.88,
+    "business_priority": 0.86
+  },
+  {
+    "query": "women dress",
+    "popularity": 7400,
+    "landing_quality": 0.86,
+    "business_priority": 0.84
+  },
+  {
+    "query": "jeans",
+    "popularity": 7000,
+    "landing_quality": 0.85,
+    "business_priority": 0.82
+  },
+  {
+    "query": "washing machine",
+    "popularity": 8000,
+    "landing_quality": 0.90,
+    "business_priority": 0.88
+  },
+  {
+    "query": "refrigerator",
+    "popularity": 7900,
+    "landing_quality": 0.89,
+    "business_priority": 0.87
+  },
+  {
+    "query": "water heater",
+    "popularity": 7700,
+    "landing_quality": 0.88,
+    "business_priority": 0.86
+  },
+  {
+    "query": "air conditioner",
+    "popularity": 7500,
+    "landing_quality": 0.87,
+    "business_priority": 0.85
+  },
+  {
+    "query": "microwave oven",
+    "popularity": 7300,
+    "landing_quality": 0.86,
+    "business_priority": 0.84
+  },
+  {
+    "query": "earbuds",
+    "popularity": 8900,
+    "landing_quality": 0.90,
+    "business_priority": 0.89
+  },
+  {
+    "query": "headphones",
+    "popularity": 8700,
+    "landing_quality": 0.89,
+    "business_priority": 0.88
+  },
+  {
+    "query": "smartwatch",
+    "popularity": 8600,
+    "landing_quality": 0.91,
+    "business_priority": 0.90
+  },
+  {
+    "query": "camera",
+    "popularity": 8000,
+    "landing_quality": 0.88,
+    "business_priority": 0.86
+  },
+  {
+    "query": "keyboard",
+    "popularity": 7700,
+    "landing_quality": 0.85,
+    "business_priority": 0.82
+  },
+  {
+    "query": "mouse",
+    "popularity": 7500,
+    "landing_quality": 0.84,
+    "business_priority": 0.80
+  },
+  {
+    "query": "best shoes",
+    "popularity": 9885,
+    "landing_quality": 0.99,
+    "business_priority": 0.99
+  },
+  {
+    "query": "Laptop",
+    "popularity": 9775,
+    "landing_quality": 0.99,
+    "business_priority": 0.99
+  },
+  {
+    "query": "smartwatch for men",
+    "popularity": 8800,
+    "landing_quality": 0.90,
+    "business_priority": 0.88
+  },
+  {
+    "query": "smartwatch for women",
+    "popularity": 8750,
+    "landing_quality": 0.89,
+    "business_priority": 0.87
+  },
+  {
+    "query": "apple iphone 15",
+    "popularity": 9900,
+    "landing_quality": 0.98,
+    "business_priority": 0.99
+  },
+  {
+    "query": "samsung galaxy s24 ultra",
+    "popularity": 9700,
+    "landing_quality": 0.97,
+    "business_priority": 0.98
+  },
+  {
+    "query": "budget smartphone",
+    "popularity": 7500,
+    "landing_quality": 0.85,
+    "business_priority": 0.75
+  },
+  {
+    "query": "gaming laptop rtx 4090",
+    "popularity": 9200,
+    "landing_quality": 0.96,
+    "business_priority": 0.95
+  },
+  {
+    "query": "ultrabook for students",
+    "popularity": 6800,
+    "landing_quality": 0.88,
+    "business_priority": 0.80
+  },
+  {
+    "query": "wireless earbuds with anc",
+    "popularity": 8900,
+    "landing_quality": 0.92,
+    "business_priority": 0.93
+  },
+  {
+    "query": "noise cancelling headphones",
+    "popularity": 8500,
+    "landing_quality": 0.91,
+    "business_priority": 0.90
+  },
+  {
+    "query": "4k smart tv 65 inch",
+    "popularity": 9300,
+    "landing_quality": 0.94,
+    "business_priority": 0.92
+  },
+  {
+    "query": "led tv 32 inch",
+    "popularity": 7000,
+    "landing_quality": 0.80,
+    "business_priority": 0.70
+  },
+  {
+    "query": "refrigerator double door",
+    "popularity": 8000,
+    "landing_quality": 0.87,
+    "business_priority": 0.85
+  },
+  {
+    "query": "microwave oven convection",
+    "popularity": 6500,
+    "landing_quality": 0.82,
+    "business_priority": 0.78
+  },
+  {
+    "query": "air conditioner 1.5 ton 5 star",
+    "popularity": 7800,
+    "landing_quality": 0.90,
+    "business_priority": 0.91
+  },
+  {
+    "query": "washing machine front load",
+    "popularity": 7200,
+    "landing_quality": 0.85,
+    "business_priority": 0.83
+  },
+  {
+    "query": "water purifier ro uv",
+    "popularity": 6900,
+    "landing_quality": 0.88,
+    "business_priority": 0.89
+  },
+  {
+    "query": "induction cooktop single burner",
+    "popularity": 5500,
+    "landing_quality": 0.75,
+    "business_priority": 0.70
+  },
+  {
+    "query": "kitchen chimney auto clean",
+    "popularity": 6100,
+    "landing_quality": 0.81,
+    "business_priority": 0.76
+  },
+  {
+    "query": "dinner set ceramic",
+    "popularity": 4500,
+    "landing_quality": 0.78,
+    "business_priority": 0.72
+  },
+  {
+    "query": "bedsheet cotton king size",
+    "popularity": 5800,
+    "landing_quality": 0.83,
+    "business_priority": 0.80
+  },
+  {
+    "query": "curtains for living room",
+    "popularity": 4900,
+    "landing_quality": 0.79,
+    "business_priority": 0.75
+  },
+  {
+    "query": "sofa set 3 seater",
+    "popularity": 6200,
+    "landing_quality": 0.85,
+    "business_priority": 0.88
+  },
+  {
+    "query": "dining table 6 seater",
+    "popularity": 5700,
+    "landing_quality": 0.80,
+    "business_priority": 0.82
+  },
+  {
+    "query": "wardrobe wooden 2 door",
+    "popularity": 5100,
+    "landing_quality": 0.77,
+    "business_priority": 0.74
+  },
+  {
+    "query": "women's jeans slim fit",
+    "popularity": 7900,
+    "landing_quality": 0.88,
+    "business_priority": 0.80
+  },
+  {
+    "query": "saree silk traditional",
+    "popularity": 6800,
+    "landing_quality": 0.85,
+    "business_priority": 0.87
+  },
+  {
+    "query": "running shoes nike",
+    "popularity": 9100,
+    "landing_quality": 0.95,
+    "business_priority": 0.92
+  },
+  {
+    "query": "formal shirts for men",
+    "popularity": 7400,
+    "landing_quality": 0.82,
+    "business_priority": 0.78
+  },
+  {
+    "query": "ethnic wear for women",
+    "popularity": 6300,
+    "landing_quality": 0.80,
+    "business_priority": 0.81
+  },
+  {
+    "query": "kids' denim jacket",
+    "popularity": 5200,
+    "landing_quality": 0.79,
+    "business_priority": 0.75
+  },
+  {
+    "query": "baby clothes new born",
+    "popularity": 4800,
+    "landing_quality": 0.75,
+    "business_priority": 0.70
+  },
+  {
+    "query": "women's handbag sling",
+    "popularity": 6500,
+    "landing_quality": 0.83,
+    "business_priority": 0.79
+  },
+  {
+    "query": "wrist watch analog men",
+    "popularity": 8100,
+    "landing_quality": 0.90,
+    "business_priority": 0.88
+  },
+  {
+    "query": "sunglasses polarized",
+    "popularity": 5900,
+    "landing_quality": 0.82,
+    "business_priority": 0.77
+  },
+  {
+    "query": "perfume for women long lasting",
+    "popularity": 7600,
+    "landing_quality": 0.89,
+    "business_priority": 0.86
+  },
+  {
+    "query": "shampoo anti dandruff",
+    "popularity": 6000,
+    "landing_quality": 0.80,
+    "business_priority": 0.75
+  },
+  {
+    "query": "face wash for oily skin",
+    "popularity": 5500,
+    "landing_quality": 0.78,
+    "business_priority": 0.72
+  },
+  {
+    "query": "body lotion dry skin",
+    "popularity": 4800,
+    "landing_quality": 0.75,
+    "business_priority": 0.70
+  },
+  {
+    "query": "lipstick matte finish",
+    "popularity": 4200,
+    "landing_quality": 0.70,
+    "business_priority": 0.65
+  },
+  {
+    "query": "foundation liquid full coverage",
+    "popularity": 3800,
+    "landing_quality": 0.68,
+    "business_priority": 0.60
+  },
+  {
+    "query": "cricket bat english willow",
+    "popularity": 7100,
+    "landing_quality": 0.85,
+    "business_priority": 0.82
+  },
+  {
+    "query": "football size 5",
+    "popularity": 6600,
+    "landing_quality": 0.80,
+    "business_priority": 0.75
+  },
+  {
+    "query": "yoga mat anti slip",
+    "popularity": 5300,
+    "landing_quality": 0.79,
+    "business_priority": 0.73
+  },
+  {
+    "query": "dumbbells adjustable set",
+    "popularity": 7900,
+    "landing_quality": 0.90,
+    "business_priority": 0.88
+  },
+  {
+    "query": "treadmill foldable",
+    "popularity": 8200,
+    "landing_quality": 0.91,
+    "business_priority": 0.90
+  },
+  {
+    "query": "backpack for college",
+    "popularity": 7500,
+    "landing_quality": 0.87,
+    "business_priority": 0.84
+  },
+  {
+    "query": "travel bag trolley",
+    "popularity": 6900,
+    "landing_quality": 0.83,
+    "business_priority": 0.81
+  },
+  {
+    "query": "power bank 20000mah",
+    "popularity": 8800,
+    "landing_quality": 0.92,
+    "business_priority": 0.90
+  },
+  {
+    "query": "usb c cable braided",
+    "popularity": 7200,
+    "landing_quality": 0.80,
+    "business_priority": 0.75
+  },
+  {
+    "query": "external hard drive 1tb",
+    "popularity": 6400,
+    "landing_quality": 0.85,
+    "business_priority": 0.80
+  },
+  {
+    "query": "bluetooth speaker portable",
+    "popularity": 8700,
+    "landing_quality": 0.91,
+    "business_priority": 0.89
+  },
+  {
+    "query": "dslr camera canon",
+    "popularity": 7800,
+    "landing_quality": 0.90,
+    "business_priority": 0.88
+  },
+  {
+    "query": "mirrorless camera sony",
+    "popularity": 6900,
+    "landing_quality": 0.88,
+    "business_priority": 0.86
+  },
+  {
+    "query": "drone with camera",
+    "popularity": 5500,
+    "landing_quality": 0.82,
+    "business_priority": 0.78
+  },
+  {
+    "query": "gaming mouse rgb",
+    "popularity": 6000,
+    "landing_quality": 0.83,
+    "business_priority": 0.80
+  },
+  {
+    "query": "mechanical keyboard gaming",
+    "popularity": 5800,
+    "landing_quality": 0.81,
+    "business_priority": 0.79
+  },
+  {
+    "query": "webcam full hd",
+    "popularity": 4500,
+    "landing_quality": 0.75,
+    "business_priority": 0.70
+  },
+  {
+    "query": "printer all in one",
+    "popularity": 5200,
+    "landing_quality": 0.78,
+    "business_priority": 0.72
+  },
+  {
+    "query": "router dual band",
+    "popularity": 4900,
+    "landing_quality": 0.76,
+    "business_priority": 0.71
+  },
+  {
+    "query": "security camera outdoor",
+    "popularity": 6100,
+    "landing_quality": 0.84,
+    "business_priority": 0.82
+  },
+  {
+    "query": "smart home hub",
+    "popularity": 3800,
+    "landing_quality": 0.70,
+    "business_priority": 0.65
+  },
+  {
+    "query": "vacuum cleaner robotic",
+    "popularity": 7000,
+    "landing_quality": 0.89,
+    "business_priority": 0.85
+  },
+  {
+    "query": "air purifier hepa filter",
+    "popularity": 6300,
+    "landing_quality": 0.86,
+    "business_priority": 0.83
+  },
+  {
+    "query": "coffee maker espresso",
+    "popularity": 5000,
+    "landing_quality": 0.80,
+    "business_priority": 0.75
+  },
+  {
+    "query": "mixer grinder juicer",
+    "popularity": 5600,
+    "landing_quality": 0.82,
+    "business_priority": 0.78
+  },
+  {
+    "query": "electric kettle cordless",
+    "popularity": 4700,
+    "landing_quality": 0.77,
+    "business_priority": 0.70
+  },
+  {
+    "query": "cooker pressure stainless steel",
+    "popularity": 4300,
+    "landing_quality": 0.74,
+    "business_priority": 0.68
+  },
+  {
+    "query": "blender personal smoothie",
+    "popularity": 3900,
+    "landing_quality": 0.70,
+    "business_priority": 0.65
+  },
+  {
+    "query": "toaster 2 slice wide slot",
+    "popularity": 3500,
+    "landing_quality": 0.68,
+    "business_priority": 0.62
+  },
+  {
+    "query": "kitchen scale digital",
+    "popularity": 2800,
+    "landing_quality": 0.65,
+    "business_priority": 0.60
+  },
+  {
+    "query": "chopper electric vegetable",
+    "popularity": 3100,
+    "landing_quality": 0.67,
+    "business_priority": 0.63
+  },
+  {
+    "query": "water bottle stainless steel insulated",
+    "popularity": 5400,
+    "landing_quality": 0.80,
+    "business_priority": 0.78
+  },
+  {
+    "query": "thermos flask hot cold",
+    "popularity": 4600,
+    "landing_quality": 0.75,
+    "business_priority": 0.70
+  },
+  {
+    "query": "lunch box insulated kids",
+    "popularity": 4000,
+    "landing_quality": 0.72,
+    "business_priority": 0.68
+  },
+  {
+    "query": "gym bag duffel",
+    "popularity": 5100,
+    "landing_quality": 0.78,
+    "business_priority": 0.75
+  },
+  {
+    "query": "sports shoes running for men",
+    "popularity": 8900,
+    "landing_quality": 0.93,
+    "business_priority": 0.90
+  },
+  {
+    "query": "sneakers casual women",
+    "popularity": 7800,
+    "landing_quality": 0.88,
+    "business_priority": 0.85
+  },
+  {
+    "query": "sandals for summer",
+    "popularity": 6200,
+    "landing_quality": 0.80,
+    "business_priority": 0.75
+  },
+  {
+    "query": "heels for party wear",
+    "popularity": 5500,
+    "landing_quality": 0.79,
+    "business_priority": 0.72
+  },
+  {
+    "query": "kurta set for women ethnic",
+    "popularity": 7100,
+    "landing_quality": 0.86,
+    "business_priority": 0.88
+  },
+  {
+    "query": "denim jacket men",
+    "popularity": 6700,
+    "landing_quality": 0.84,
+    "business_priority": 0.80
+  },
+  {
+    "query": "winter coat women warm",
+    "popularity": 7300,
+    "landing_quality": 0.89,
+    "business_priority": 0.90
+  },
+  {
+    "query": "sweatshirt men hoodie",
+    "popularity": 6000,
+    "landing_quality": 0.81,
+    "business_priority": 0.76
+  },
+  {
+    "query": "tracksuit sports",
+    "popularity": 5400,
+    "landing_quality": 0.78,
+    "business_priority": 0.73
+  },
+  {
+    "query": "leggings women yoga",
+    "popularity": 4800,
+    "landing_quality": 0.75,
+    "business_priority": 0.70
+  },
+  {
+    "query": "dress party wear women",
+    "popularity": 6900,
+    "landing_quality": 0.87,
+    "business_priority": 0.85
+  },
+  {
+    "query": "kids sneakers light up",
+    "popularity": 5000,
+    "landing_quality": 0.77,
+    "business_priority": 0.72
+  },
+  {
+    "query": "baby stroller compact",
+    "popularity": 4500,
+    "landing_quality": 0.75,
+    "business_priority": 0.70
+  },
+  {
+    "query": "school bag ergonomic",
+    "popularity": 7000,
+    "landing_quality": 0.86,
+    "business_priority": 0.82
+  },
+  {
+    "query": "pencil box cartoon",
+    "popularity": 3200,
+    "landing_quality": 0.65,
+    "business_priority": 0.60
+  },
+  {
+    "query": "mobiles",
+    "popularity": 5999,
+    "landing_quality": 0.92,
+    "business_priority": 0.99
+  },
+  {
+    "query": "mobile cover",
+    "popularity": 5989,
+    "landing_quality": 0.85,
+    "business_priority": 0.82
+  },
+  {
+    "query": "mobile charger",
+    "popularity": 0.78,
+    "landing_quality": 0.83,
+    "business_priority": 0.8
+  },
+  {
+    "query": "washing machine",
+    "popularity": 0.88,
+    "landing_quality": 0.9,
+    "business_priority": 0.86
+  },
+  {
+    "query": "water bottle",
+    "popularity": 0.7,
+    "landing_quality": 0.75,
+    "business_priority": 0.78
+  },
+  {
+    "query": "wireless earbuds",
+    "popularity": 0.85,
+    "landing_quality": 0.87,
+    "business_priority": 0.84
+  },
+  {
+    "query": "women tops",
+    "popularity": 0.8,
+    "landing_quality": 0.86,
+    "business_priority": 0.83
+  },
+  {
+    "query": "wireless mouse",
+    "popularity": 0.76,
+    "landing_quality": 0.82,
+    "business_priority": 0.78
+  },
+  {
+    "query": "webcam",
+    "popularity": 0.66,
+    "landing_quality": 0.74,
+    "business_priority": 0.72
+  },
+  {
+    "query": "wooden table",
+    "popularity": 0.6,
+    "landing_quality": 0.7,
+    "business_priority": 0.69
+  },
+  {
+    "query": "winter jacket",
+    "popularity": 0.73,
+    "landing_quality": 0.8,
+    "business_priority": 0.77
+  },
+  {
+    "query": "wall clock",
+    "popularity": 0.68,
+    "landing_quality": 0.72,
+    "business_priority": 0.7
+  },
+  {
+    "query": "woolen socks",
+    "popularity": 0.58,
+    "landing_quality": 0.68,
+    "business_priority": 0.66
+  },
+  {
+    "query": "wrist watch",
+    "popularity": 0.82,
+    "landing_quality": 0.88,
+    "business_priority": 0.85
+  },
+  {
+    "query": "wireless keyboard",
+    "popularity": 0.75,
+    "landing_quality": 0.81,
+    "business_priority": 0.79
+  },
+  {
+    "query": "wedding dress",
+    "popularity": 0.72,
+    "landing_quality": 0.84,
+    "business_priority": 0.8
+  },
+  {
+    "query": "walking shoes",
+    "popularity": 0.77,
+    "landing_quality": 0.83,
+    "business_priority": 0.81
+  },
+  {
+    "query": "women handbags",
+    "popularity": 0.74,
+    "landing_quality": 0.82,
+    "business_priority": 0.8
+  },
+  {
+    "query": "window curtains",
+    "popularity": 0.63,
+    "landing_quality": 0.71,
+    "business_priority": 0.68
+  },
+  {
+    "query": "wooden wardrobe",
+    "popularity": 0.55,
+    "landing_quality": 0.69,
+    "business_priority": 0.67
+  },
+  {
+    "query": "yoga mat pack",
+    "popularity": 2901,
+    "landing_quality": 0.71,
+    "business_priority": 0.51
+  },
+  {
+    "query": "dumbbells 2025 edition",
+    "popularity": 8176,
+    "landing_quality": 0.15,
+    "business_priority": 0.6
+  },
+  {
+    "query": "dishwasher 2025 edition",
+    "popularity": 8741,
+    "landing_quality": 0.81,
+    "business_priority": 0.82
+  },
+  {
+    "query": "wallet combo",
+    "popularity": 1361,
+    "landing_quality": 0.9,
+    "business_priority": 0.42
+  },
+  {
+    "query": "night cream best offer",
+    "popularity": 2704,
+    "landing_quality": 0.82,
+    "business_priority": 0.32
+  },
+  {
+    "query": "floor cleaner 2025 edition",
+    "popularity": 1843,
+    "landing_quality": 0.1,
+    "business_priority": 0.34
+  },
+  {
+    "query": "shaving kit discount",
+    "popularity": 7209,
+    "landing_quality": 0.37,
+    "business_priority": 0.94
+  },
+  {
+    "query": "formal shoes best offer",
+    "popularity": 3232,
+    "landing_quality": 0.71,
+    "business_priority": 0.64
+  },
+  {
+    "query": "electric kettle best offer",
+    "popularity": 9079,
+    "landing_quality": 0.96,
+    "business_priority": 0.87
+  },
+  {
+    "query": "electric kettle buy",
+    "popularity": 360,
+    "landing_quality": 0.57,
+    "business_priority": 0.16
+  },
+  {
+    "query": "watch",
+    "popularity": 8169,
+    "landing_quality": 0.88,
+    "business_priority": 0.52
+  },
+  {
+    "query": "watches for Men",
+    "popularity": 8140,
+    "landing_quality": 0.88,
+    "business_priority": 0.82
+  },
+  {
+    "query": "watches for Women",
+    "popularity": 8159,
+    "landing_quality": 0.98,
+    "business_priority": 0.52
+  },
+  {
+    "query": "air conditioner pack",
+    "popularity": 6296,
+    "landing_quality": 0.41,
+    "business_priority": 0.42
+  },
+  {
+    "query": "backpack discount",
+    "popularity": 9939,
+    "landing_quality": 0.54,
+    "business_priority": 0.25
+  },
+  {
+    "query": "iphone charger",
+    "popularity": 3722,
+    "landing_quality": 0.33,
+    "business_priority": 1.0
+  },
+  {
+    "query": "detergent best offer",
+    "popularity": 1876,
+    "landing_quality": 0.26,
+    "business_priority": 0.55
+  },
+  {
+    "query": "gym gloves buy",
+    "popularity": 7788,
+    "landing_quality": 0.52,
+    "business_priority": 0.65
+  },
+  {
+    "query": "cricket bat latest",
+    "popularity": 1076,
+    "landing_quality": 0.7,
+    "business_priority": 0.53
+  },
+  {
+    "query": "dishwasher low price",
+    "popularity": 4899,
+    "landing_quality": 0.56,
+    "business_priority": 0.32
+  },
+  {
+    "query": "wireless mouse latest",
+    "popularity": 4107,
+    "landing_quality": 0.94,
+    "business_priority": 0.59
+  },
+  {
+    "query": "iphone charger discount",
+    "popularity": 6513,
+    "landing_quality": 0.97,
+    "business_priority": 0.92
+  },
+  {
+    "query": "tv remote online",
+    "popularity": 9863,
+    "landing_quality": 0.74,
+    "business_priority": 0.77
+  },
+  {
+    "query": "digital watch sale",
+    "popularity": 5455,
+    "landing_quality": 0.12,
+    "business_priority": 0.76
+  },
+  {
+    "query": "microwave oven best offer",
+    "popularity": 9979,
+    "landing_quality": 0.8,
+    "business_priority": 0.16
+  },
+  {
+    "query": "wireless mouse pack",
+    "popularity": 1750,
+    "landing_quality": 0.31,
+    "business_priority": 0.46
+  },
+  {
+    "query": "laptop stand best offer",
+    "popularity": 2717,
+    "landing_quality": 0.83,
+    "business_priority": 0.99
+  },
+  {
+    "query": "backpack latest",
+    "popularity": 3292,
+    "landing_quality": 0.17,
+    "business_priority": 0.45
+  },
+  {
+    "query": "gas stove low price",
+    "popularity": 1143,
+    "landing_quality": 0.49,
+    "business_priority": 0.72
+  },
+  {
+    "query": "hair dryer online",
+    "popularity": 5792,
+    "landing_quality": 0.9,
+    "business_priority": 0.34
+  },
+  {
+    "query": "vacuum cleaner latest",
+    "popularity": 7585,
+    "landing_quality": 0.65,
+    "business_priority": 0.32
+  },
+  {
+    "query": "smart watch online",
+    "popularity": 5308,
+    "landing_quality": 0.42,
+    "business_priority": 0.78
+  },
+  {
+    "query": "camera tripod combo",
+    "popularity": 1258,
+    "landing_quality": 0.44,
+    "business_priority": 0.81
+  },
+  {
+    "query": "refrigerator latest",
+    "popularity": 3473,
+    "landing_quality": 0.61,
+    "business_priority": 0.5
+  },
+  {
+    "query": "digital watch discount",
+    "popularity": 5284,
+    "landing_quality": 0.22,
+    "business_priority": 0.96
+  },
+  {
+    "query": "foundation",
+    "popularity": 847,
+    "landing_quality": 0.47,
+    "business_priority": 0.58
+  },
+  {
+    "query": "yoga mat pack",
+    "popularity": 225,
+    "landing_quality": 0.45,
+    "business_priority": 0.9
+  },
+  {
+    "query": "face serum combo",
+    "popularity": 8143,
+    "landing_quality": 0.59,
+    "business_priority": 0.69
+  },
+  {
+    "query": "vacuum cleaner sale",
+    "popularity": 8457,
+    "landing_quality": 0.69,
+    "business_priority": 0.42
+  },
+  {
+    "query": "night cream combo",
+    "popularity": 6208,
+    "landing_quality": 0.44,
+    "business_priority": 0.36
+  },
+  {
+    "query": "basketball shoes latest",
+    "popularity": 1712,
+    "landing_quality": 0.62,
+    "business_priority": 0.79
+  },
+  {
+    "query": "running shoes discount",
+    "popularity": 9014,
+    "landing_quality": 0.28,
+    "business_priority": 0.95
+  },
+  {
+    "query": "toilet cleaner discount",
+    "popularity": 5090,
+    "landing_quality": 0.22,
+    "business_priority": 0.77
+  },
+  {
+    "query": "running shoes discount",
+    "popularity": 7710,
+    "landing_quality": 0.77,
+    "business_priority": 0.43
+  },
+  {
+    "query": "washing machine low price",
+    "popularity": 302,
+    "landing_quality": 0.37,
+    "business_priority": 0.28
+  },
+  {
+    "query": "iphone 14 buy",
+    "popularity": 9710,
+    "landing_quality": 0.99,
+    "business_priority": 0.14
+  },
+  {
+    "query": "mobile cover couple",
+    "popularity": 2768,
+    "landing_quality": 0.79,
+    "business_priority": 0.25
+  },
+  {
+    "query": "room heater sale",
+    "popularity": 4477,
+    "landing_quality": 0.95,
+    "business_priority": 0.15
+  },
+  {
+    "query": "macbook charger buy",
+    "popularity": 4512,
+    "landing_quality": 0.78,
+    "business_priority": 0.59
+  },
+  {
+    "query": "android tv best offer",
+    "popularity": 6643,
+    "landing_quality": 0.25,
+    "business_priority": 0.13
+  },
+  {
+    "query": "cricket bat pack",
+    "popularity": 4445,
+    "landing_quality": 0.16,
+    "business_priority": 0.41
+  },
+  {
+    "query": "formal shoes combo",
+    "popularity": 9453,
+    "landing_quality": 0.92,
+    "business_priority": 0.41
+  },
+  {
+    "query": "exercise bike",
+    "popularity": 7816,
+    "landing_quality": 0.37,
+    "business_priority": 0.88
+  },
+  {
+    "query": "iphone charger latest",
+    "popularity": 1990,
+    "landing_quality": 0.88,
+    "business_priority": 0.57
+  },
+  {
+    "query": "microwave oven 2025 edition",
+    "popularity": 1430,
+    "landing_quality": 0.55,
+    "business_priority": 0.59
+  },
+  {
+    "query": "badminton racket pack",
+    "popularity": 8627,
+    "landing_quality": 0.69,
+    "business_priority": 0.37
+  },
+  {
+    "query": "laptop cooling pad",
+    "popularity": 4185,
+    "landing_quality": 0.44,
+    "business_priority": 0.34
+  },
+  {
+    "query": "hair dryer sale",
+    "popularity": 583,
+    "landing_quality": 0.39,
+    "business_priority": 0.55
+  },
+  {
+    "query": "laptop cooling pad sale",
+    "popularity": 6033,
+    "landing_quality": 0.57,
+    "business_priority": 0.54
+  },
+  {
+    "query": "iphone charger sale",
+    "popularity": 6734,
+    "landing_quality": 0.51,
+    "business_priority": 0.31
+  },
+  {
+    "query": "women's dress sale",
+    "popularity": 7614,
+    "landing_quality": 0.77,
+    "business_priority": 0.71
+  },
+  {
+    "query": "shaving kit online",
+    "popularity": 4895,
+    "landing_quality": 0.53,
+    "business_priority": 0.71
+  },
+  {
+    "query": "sports shoes latest",
+    "popularity": 7070,
+    "landing_quality": 0.73,
+    "business_priority": 0.88
+  },
+  {
+    "query": "camera tripod",
+    "popularity": 3849,
+    "landing_quality": 0.49,
+    "business_priority": 0.98
+  },
+  {
+    "query": "led tv latest",
+    "popularity": 6803,
+    "landing_quality": 0.57,
+    "business_priority": 0.9
+  },
+  {
+    "query": "toilet cleaner combo",
+    "popularity": 590,
+    "landing_quality": 0.66,
+    "business_priority": 0.45
+  },
+  {
+    "query": "school bag",
+    "popularity": 5914,
+    "landing_quality": 0.18,
+    "business_priority": 0.5
+  },
+  {
+    "query": "dishwasher best offer",
+    "popularity": 8585,
+    "landing_quality": 0.41,
+    "business_priority": 0.49
+  },
+  {
+    "query": "hand bag",
+    "popularity": 8815,
+    "landing_quality": 0.86,
+    "business_priority": 0.43
+  },
+  {
+    "query": "flip flops sale",
+    "popularity": 6544,
+    "landing_quality": 0.34,
+    "business_priority": 0.85
+  },
+  {
+    "query": "lip balm",
+    "popularity": 9265,
+    "landing_quality": 0.3,
+    "business_priority": 0.48
+  },
+  {
+    "query": "smart tv latest",
+    "popularity": 1962,
+    "landing_quality": 0.97,
+    "business_priority": 0.15
+  },
+  {
+    "query": "sling bag low price",
+    "popularity": 6310,
+    "landing_quality": 0.9,
+    "business_priority": 0.15
+  },
+  {
+    "query": "wallet latest",
+    "popularity": 1432,
+    "landing_quality": 0.89,
+    "business_priority": 0.29
+  },
+  {
+    "query": "power bank latest",
+    "popularity": 8105,
+    "landing_quality": 0.98,
+    "business_priority": 0.24
+  },
+  {
+    "query": "power bank combo",
+    "popularity": 7601,
+    "landing_quality": 0.19,
+    "business_priority": 0.27
+  },
+  {
+    "query": "camera tripod 2025 edition",
+    "popularity": 3026,
+    "landing_quality": 0.64,
+    "business_priority": 0.38
+  },
+  {
+    "query": "gaming mouse low price",
+    "popularity": 4840,
+    "landing_quality": 0.84,
+    "business_priority": 0.51
+  },
+  {
+    "query": "room heater discount",
+    "popularity": 5984,
+    "landing_quality": 0.1,
+    "business_priority": 0.67
+  },
+  {
+    "query": "sd card sale",
+    "popularity": 1713,
+    "landing_quality": 0.49,
+    "business_priority": 0.18
+  },
+  {
+    "query": "water purifier latest",
+    "popularity": 607,
+    "landing_quality": 0.84,
+    "business_priority": 0.42
+  },
+  {
+    "query": "school bag sale",
+    "popularity": 2320,
+    "landing_quality": 0.32,
+    "business_priority": 0.34
+  },
+  {
+    "query": "hair dryer sale",
+    "popularity": 6193,
+    "landing_quality": 0.35,
+    "business_priority": 0.62
+  },
+  {
+    "query": "trimmer buy",
+    "popularity": 4052,
+    "landing_quality": 0.82,
+    "business_priority": 0.32
+  },
+  {
+    "query": "camera tripod pack",
+    "popularity": 231,
+    "landing_quality": 0.99,
+    "business_priority": 0.56
+  },
+  {
+    "query": "refrigerator discount",
+    "popularity": 7379,
+    "landing_quality": 1.0,
+    "business_priority": 0.18
+  },
+  {
+    "query": "treadmill combo",
+    "popularity": 5709,
+    "landing_quality": 0.26,
+    "business_priority": 0.18
+  },
+  {
+    "query": "wrist watch latest",
+    "popularity": 5126,
+    "landing_quality": 0.33,
+    "business_priority": 0.15
+  },
+  {
+    "query": "shaving kit low price",
+    "popularity": 9036,
+    "landing_quality": 0.28,
+    "business_priority": 0.37
+  },
+  {
+    "query": "football best offer",
+    "popularity": 214,
+    "landing_quality": 0.21,
+    "business_priority": 0.47
+  },
+  {
+    "query": "protein powder online",
+    "popularity": 8800,
+    "landing_quality": 0.93,
+    "business_priority": 0.9
+  },
+  {
+    "query": "toilet cleaner pack",
+    "popularity": 4647,
+    "landing_quality": 0.14,
+    "business_priority": 0.34
+  },
+  {
+    "query": "football 2025 edition",
+    "popularity": 4336,
+    "landing_quality": 0.22,
+    "business_priority": 0.87
+  },
+  {
+    "query": "bluetooth speaker latest",
+    "popularity": 2880,
+    "landing_quality": 0.67,
+    "business_priority": 0.8
+  },
+  {
+    "query": "dslr camera buy",
+    "popularity": 7506,
+    "landing_quality": 0.58,
+    "business_priority": 0.16
+  },
+  {
+    "query": "tv remote discount",
+    "popularity": 876,
+    "landing_quality": 0.59,
+    "business_priority": 0.33
+  },
+  {
+    "query": "trolley bag discount",
+    "popularity": 8694,
+    "landing_quality": 0.46,
+    "business_priority": 0.2
+  },
+  {
+    "query": "dslr camera sale",
+    "popularity": 895,
+    "landing_quality": 0.96,
+    "business_priority": 0.9
+  },
+  {
+    "query": "sd card 2025 edition",
+    "popularity": 8276,
+    "landing_quality": 0.57,
+    "business_priority": 0.45
+  },
+  {
+    "query": "yoga mat buy",
+    "popularity": 8161,
+    "landing_quality": 0.33,
+    "business_priority": 0.77
+  },
+  {
+    "query": "badminton racket buy",
+    "popularity": 568,
+    "landing_quality": 0.66,
+    "business_priority": 0.64
+  },
+  {
+    "query": "school bag buy",
+    "popularity": 8262,
+    "landing_quality": 0.57,
+    "business_priority": 0.85
+  },
+  {
+    "query": "compact powder online",
+    "popularity": 169,
+    "landing_quality": 0.8,
+    "business_priority": 0.5
+  },
+  {
+    "query": "detergent buy",
+    "popularity": 590,
+    "landing_quality": 0.87,
+    "business_priority": 0.8
+  },
+  {
+    "query": "samsung galaxy s21 buy",
+    "popularity": 1942,
+    "landing_quality": 0.98,
+    "business_priority": 0.21
+  },
+  {
+    "query": "samsung galaxy s21",
+    "popularity": 424,
+    "landing_quality": 0.93,
+    "business_priority": 0.65
+  },
+  {
+    "query": "formal shoes low price",
+    "popularity": 4049,
+    "landing_quality": 0.71,
+    "business_priority": 0.44
+  },
+  {
+    "query": "women's dress online",
+    "popularity": 3876,
+    "landing_quality": 0.8,
+    "business_priority": 0.3
+  },
+  {
+    "query": "yoga mat latest",
+    "popularity": 7246,
+    "landing_quality": 0.64,
+    "business_priority": 0.47
+  },
+  {
+    "query": "face serum combo",
+    "popularity": 4977,
+    "landing_quality": 0.86,
+    "business_priority": 0.68
+  },
+  {
+    "query": "induction cooktop buy",
+    "popularity": 8069,
+    "landing_quality": 0.28,
+    "business_priority": 0.1
+  },
+  {
+    "query": "flip flops latest",
+    "popularity": 5032,
+    "landing_quality": 0.71,
+    "business_priority": 0.82
+  },
+  {
+    "query": "water purifier discount",
+    "popularity": 417,
+    "landing_quality": 0.24,
+    "business_priority": 0.84
+  },
+  {
+    "query": "electric kettle combo",
+    "popularity": 2631,
+    "landing_quality": 0.24,
+    "business_priority": 0.62
+  },
+  {
+    "query": "induction cooktop combo",
+    "popularity": 7196,
+    "landing_quality": 0.8,
+    "business_priority": 0.3
+  },
+  {
+    "query": "led tv pack",
+    "popularity": 4574,
+    "landing_quality": 0.66,
+    "business_priority": 0.89
+  },
+  {
+    "query": "body lotion best offer",
+    "popularity": 844,
+    "landing_quality": 0.54,
+    "business_priority": 0.85
+  },
+  {
+    "query": "power bank low price",
+    "popularity": 4146,
+    "landing_quality": 0.35,
+    "business_priority": 0.72
+  },
+  {
+    "query": "toilet cleaner latest",
+    "popularity": 5448,
+    "landing_quality": 0.7,
+    "business_priority": 0.9
+  },
+  {
+    "query": "backpack combo",
+    "popularity": 8274,
+    "landing_quality": 0.66,
+    "business_priority": 0.27
+  },
+  {
+    "query": "eye liner 2025 edition",
+    "popularity": 4320,
+    "landing_quality": 0.26,
+    "business_priority": 0.58
+  },
+  {
+    "query": "detergent combo",
+    "popularity": 5560,
+    "landing_quality": 0.82,
+    "business_priority": 0.97
+  },
+  {
+    "query": "vacuum cleaner latest",
+    "popularity": 7604,
+    "landing_quality": 0.52,
+    "business_priority": 0.74
+  },
+  {
+    "query": "LED tv remote",
+    "popularity": 8100,
+    "landing_quality": 0.7,
+    "business_priority": 0.69
+  },
+  {
+    "query": "tv remote discount",
+    "popularity": 5729,
+    "landing_quality": 0.37,
+    "business_priority": 0.21
+  },
+  {
+    "query": "flip flops discount",
+    "popularity": 2138,
+    "landing_quality": 0.24,
+    "business_priority": 0.65
+  },
+  {
+    "query": "macbook air 2025 edition",
+    "popularity": 3432,
+    "landing_quality": 1.0,
+    "business_priority": 0.83
+  },
+  {
+    "query": "usb c cable buy",
+    "popularity": 3720,
+    "landing_quality": 0.54,
+    "business_priority": 0.36
+  },
+  {
+    "query": "laptop bag combo",
+    "popularity": 7450,
+    "landing_quality": 0.8,
+    "business_priority": 0.94
+  },
+  {
+    "query": "sanitizer 2025 edition",
+    "popularity": 8092,
+    "landing_quality": 0.29,
+    "business_priority": 0.58
+  },
+  {
+    "query": "room heater buy",
+    "popularity": 6694,
+    "landing_quality": 0.44,
+    "business_priority": 0.37
+  },
+  {
+    "query": "sunscreen online",
+    "popularity": 3911,
+    "landing_quality": 0.54,
+    "business_priority": 0.38
+  },
+  {
+    "query": "flip flops online",
+    "popularity": 4264,
+    "landing_quality": 0.37,
+    "business_priority": 0.25
+  },
+  {
+    "query": "football low price",
+    "popularity": 4300,
+    "landing_quality": 0.37,
+    "business_priority": 0.78
+  },
+  {
+    "query": "ceiling fan best offer",
+    "popularity": 7084,
+    "landing_quality": 0.4,
+    "business_priority": 0.46
+  },
+  {
+    "query": "electric kettle discount",
+    "popularity": 2156,
+    "landing_quality": 0.1,
+    "business_priority": 0.98
+  },
+  {
+    "query": "hand bag 2025 edition",
+    "popularity": 2587,
+    "landing_quality": 0.83,
+    "business_priority": 0.59
+  },
+  {
+    "query": "women's dress discount",
+    "popularity": 6491,
+    "landing_quality": 0.2,
+    "business_priority": 0.9
+  },
+  {
+    "query": "women's dress pack",
+    "popularity": 7781,
+    "landing_quality": 0.21,
+    "business_priority": 0.84
+  },
+  {
+    "query": "wireless headphones online",
+    "popularity": 9895,
+    "landing_quality": 0.48,
+    "business_priority": 0.96
+  },
+  {
+    "query": "macbook charger low price",
+    "popularity": 6232,
+    "landing_quality": 0.15,
+    "business_priority": 0.84
+  },
+  {
+    "query": "eye liner sale",
+    "popularity": 2916,
+    "landing_quality": 0.9,
+    "business_priority": 0.79
+  },
+  {
+    "query": "school bag online",
+    "popularity": 8280,
+    "landing_quality": 0.19,
+    "business_priority": 0.92
+  },
+  {
+    "query": "ceiling fan online",
+    "popularity": 3097,
+    "landing_quality": 0.96,
+    "business_priority": 0.19
+  },
+  {
+    "query": "dumbbells low price",
+    "popularity": 5741,
+    "landing_quality": 0.42,
+    "business_priority": 0.29
+  },
+  {
+    "query": "smart tv low price",
+    "popularity": 9502,
+    "landing_quality": 0.1,
+    "business_priority": 0.97
+  },
+  {
+    "query": "laptop stand discount",
+    "popularity": 7781,
+    "landing_quality": 0.99,
+    "business_priority": 0.54
+  },
+  {
+    "query": "lip balm best offer",
+    "popularity": 5520,
+    "landing_quality": 0.85,
+    "business_priority": 0.28
+  },
+  {
+    "query": "ceiling fan combo",
+    "popularity": 7682,
+    "landing_quality": 0.77,
+    "business_priority": 0.25
+  },
+  {
+    "query": "exercise bike discount",
+    "popularity": 7279,
+    "landing_quality": 0.88,
+    "business_priority": 0.76
+  },
+  {
+    "query": "floor cleaner online",
+    "popularity": 5418,
+    "landing_quality": 0.93,
+    "business_priority": 0.27
+  },
+  {
+    "query": "iphone case best offer",
+    "popularity": 3723,
+    "landing_quality": 0.76,
+    "business_priority": 0.2
+  },
+  {
+    "query": "refrigerator low price",
+    "popularity": 1833,
+    "landing_quality": 0.34,
+    "business_priority": 0.21
+  },
+  {
+    "query": "mirrorless camera 2025 edition",
+    "popularity": 2686,
+    "landing_quality": 0.44,
+    "business_priority": 0.25
+  },
+  {
+    "query": "mirrorless camera buy",
+    "popularity": 3589,
+    "landing_quality": 0.11,
+    "business_priority": 0.24
+  },
+  {
+    "query": "casual shoes online",
+    "popularity": 5106,
+    "landing_quality": 0.61,
+    "business_priority": 0.34
+  },
+  {
+    "query": "foundation 2025 edition",
+    "popularity": 9358,
+    "landing_quality": 0.23,
+    "business_priority": 0.72
+  },
+  {
+    "query": "school bag low price",
+    "popularity": 7194,
+    "landing_quality": 1.0,
+    "business_priority": 0.75
+  },
+  {
+    "query": "formal shoes buy",
+    "popularity": 3954,
+    "landing_quality": 0.14,
+    "business_priority": 0.19
+  },
+  {
+    "query": "laptop cooling pad low price",
+    "popularity": 6163,
+    "landing_quality": 0.5,
+    "business_priority": 0.35
+  },
+  {
+    "query": "gym gloves pack",
+    "popularity": 1158,
+    "landing_quality": 0.1,
+    "business_priority": 0.71
+  },
+  {
+    "query": "usb c cable online",
+    "popularity": 8448,
+    "landing_quality": 0.18,
+    "business_priority": 0.93
+  },
+  {
+    "query": "compact powder 2025 edition",
+    "popularity": 4604,
+    "landing_quality": 0.87,
+    "business_priority": 0.59
+  },
+  {
+    "query": "bluetooth speaker online",
+    "popularity": 5768,
+    "landing_quality": 0.86,
+    "business_priority": 0.21
+  },
+  {
+    "query": "face serum discount",
+    "popularity": 674,
+    "landing_quality": 0.32,
+    "business_priority": 1.0
+  },
+  {
+    "query": "sanitizer pack",
+    "popularity": 194,
+    "landing_quality": 0.87,
+    "business_priority": 0.29
+  },
+  {
+    "query": "formal shoes low price",
+    "popularity": 1607,
+    "landing_quality": 0.86,
+    "business_priority": 0.68
+  },
+  {
+    "query": "android tv best offer",
+    "popularity": 6046,
+    "landing_quality": 0.11,
+    "business_priority": 0.78
+  },
+  {
+    "query": "basketball shoes buy",
+    "popularity": 8185,
+    "landing_quality": 0.64,
+    "business_priority": 0.96
+  },
+  {
+    "query": "wireless headphones pack",
+    "popularity": 2296,
+    "landing_quality": 0.17,
+    "business_priority": 0.13
+  },
+  {
+    "query": "induction cooktop sale",
+    "popularity": 1463,
+    "landing_quality": 0.51,
+    "business_priority": 0.4
+  },
+  {
+    "query": "macbook air 2025 edition",
+    "popularity": 5069,
+    "landing_quality": 0.23,
+    "business_priority": 0.81
+  },
+  {
+    "query": "macbook case 2025 edition",
+    "popularity": 2966,
+    "landing_quality": 0.4,
+    "business_priority": 0.46
+  },
+  {
+    "query": "face mask low price",
+    "popularity": 8014,
+    "landing_quality": 0.34,
+    "business_priority": 0.53
+  },
+  {
+    "query": "tv wall mount best offer",
+    "popularity": 7322,
+    "landing_quality": 0.75,
+    "business_priority": 0.2
+  },
+  {
+    "query": "led tv discount",
+    "popularity": 4014,
+    "landing_quality": 0.3,
+    "business_priority": 0.44
+  },
+  {
+    "query": "cricket bat combo",
+    "popularity": 8093,
+    "landing_quality": 0.32,
+    "business_priority": 0.26
+  },
+  {
+    "query": "bluetooth speaker best offer",
+    "popularity": 5540,
+    "landing_quality": 0.87,
+    "business_priority": 0.51
+  },
+  {
+    "query": "wireless mouse sale",
+    "popularity": 1613,
+    "landing_quality": 0.63,
+    "business_priority": 0.44
+  },
+  {
+    "query": "analog watch low price",
+    "popularity": 8325,
+    "landing_quality": 0.11,
+    "business_priority": 0.34
+  },
+  {
+    "query": "laptop stand discount",
+    "popularity": 2953,
+    "landing_quality": 0.55,
+    "business_priority": 0.21
+  },
+  {
+    "query": "trimmer pack",
+    "popularity": 7119,
+    "landing_quality": 0.74,
+    "business_priority": 0.33
+  },
+  {
+    "query": "compact powder discount",
+    "popularity": 5353,
+    "landing_quality": 0.57,
+    "business_priority": 0.75
+  },
+  {
+    "query": "induction cooktop combo",
+    "popularity": 1838,
+    "landing_quality": 0.22,
+    "business_priority": 0.8
+  },
+  {
+    "query": "sanitizer discount",
+    "popularity": 1576,
+    "landing_quality": 0.21,
+    "business_priority": 0.22
+  },
+  {
+    "query": "vacuum cleaner combo",
+    "popularity": 811,
+    "landing_quality": 0.9,
+    "business_priority": 0.26
+  },
+  {
+    "query": "face mask combo",
+    "popularity": 8161,
+    "landing_quality": 0.96,
+    "business_priority": 0.27
+  },
+  {
+    "query": "samsung charger pack",
+    "popularity": 6195,
+    "landing_quality": 0.6,
+    "business_priority": 0.48
+  },
+  {
+    "query": "toilet cleaner pack",
+    "popularity": 3307,
+    "landing_quality": 0.33,
+    "business_priority": 0.99
+  },
+  {
+    "query": "foundation pack",
+    "popularity": 7488,
+    "landing_quality": 0.82,
+    "business_priority": 0.2
+  },
+  {
+    "query": "sanitizer discount",
+    "popularity": 1603,
+    "landing_quality": 0.18,
+    "business_priority": 0.78
+  },
+  {
+    "query": "face serum pack",
+    "popularity": 4160,
+    "landing_quality": 0.41,
+    "business_priority": 0.97
+  },
+  {
+    "query": "ceiling fan 2025 edition",
+    "popularity": 6865,
+    "landing_quality": 0.11,
+    "business_priority": 0.41
+  },
+  {
+    "query": "bluetooth speaker pack",
+    "popularity": 5325,
+    "landing_quality": 0.6,
+    "business_priority": 0.74
+  },
+  {
+    "query": "sports shoes best offer",
+    "popularity": 1588,
+    "landing_quality": 0.4,
+    "business_priority": 0.17
+  },
+  {
+    "query": "treadmill latest",
+    "popularity": 782,
+    "landing_quality": 0.5,
+    "business_priority": 0.88
+  },
+  {
+    "query": "toothpaste buy",
+    "popularity": 6151,
+    "landing_quality": 0.37,
+    "business_priority": 0.2
+  },
+  {
+    "query": "smart tv 2025 edition",
+    "popularity": 9462,
+    "landing_quality": 0.17,
+    "business_priority": 0.19
+  },
+  {
+    "query": "iphone 14 latest",
+    "popularity": 5489,
+    "landing_quality": 0.12,
+    "business_priority": 0.23
+  },
+  {
+    "query": "face mask low price",
+    "popularity": 4884,
+    "landing_quality": 0.54,
+    "business_priority": 0.42
+  },
+  {
+    "query": "sanitizer best offer",
+    "popularity": 5114,
+    "landing_quality": 0.12,
+    "business_priority": 0.55
+  },
+  {
+    "query": "dishwasher combo",
+    "popularity": 1382,
+    "landing_quality": 0.79,
+    "business_priority": 0.26
+  },
+  {
+    "query": "body lotion latest",
+    "popularity": 8237,
+    "landing_quality": 0.99,
+    "business_priority": 0.78
+  },
+  {
+    "query": "body lotion buy",
+    "popularity": 707,
+    "landing_quality": 0.74,
+    "business_priority": 0.13
+  },
+  {
+    "query": "backpack buy",
+    "popularity": 9282,
+    "landing_quality": 0.8,
+    "business_priority": 0.23
+  },
+  {
+    "query": "dishwasher combo",
+    "popularity": 8363,
+    "landing_quality": 0.81,
+    "business_priority": 0.95
+  },
+  {
+    "query": "wireless headphones latest",
+    "popularity": 517,
+    "landing_quality": 0.66,
+    "business_priority": 0.3
+  },
+  {
+    "query": "samsung charger 2025 edition",
+    "popularity": 8227,
+    "landing_quality": 0.42,
+    "business_priority": 0.77
+  },
+  {
+    "query": "led tv 2025 edition",
+    "popularity": 1813,
+    "landing_quality": 0.46,
+    "business_priority": 0.65
+  },
+  {
+    "query": "toothbrush latest",
+    "popularity": 9633,
+    "landing_quality": 0.55,
+    "business_priority": 0.61
+  },
+  {
+    "query": "tv remote discount",
+    "popularity": 8336,
+    "landing_quality": 0.35,
+    "business_priority": 0.74
+  },
+  {
+    "query": "android tv online",
+    "popularity": 2656,
+    "landing_quality": 0.69,
+    "business_priority": 0.68
+  },
+  {
+    "query": "ceiling fan buy",
+    "popularity": 3149,
+    "landing_quality": 0.71,
+    "business_priority": 0.46
+  },
+  {
+    "query": "night cream latest",
+    "popularity": 4486,
+    "landing_quality": 0.14,
+    "business_priority": 0.49
+  },
+  {
+    "query": "iphone 14 pack",
+    "popularity": 2218,
+    "landing_quality": 0.85,
+    "business_priority": 0.52
+  },
+  {
+    "query": "toothbrush buy",
+    "popularity": 5174,
+    "landing_quality": 0.18,
+    "business_priority": 0.81
+  },
+  {
+    "query": "women's dress best offer",
+    "popularity": 5686,
+    "landing_quality": 0.55,
+    "business_priority": 0.22
+  },
+  {
+    "query": "wireless headphones sale",
+    "popularity": 9241,
+    "landing_quality": 0.84,
+    "business_priority": 0.62
+  },
+  {
+    "query": "formal shoes combo",
+    "popularity": 1324,
+    "landing_quality": 0.41,
+    "business_priority": 0.39
+  },
+  {
+    "query": "hair dryer discount",
+    "popularity": 9609,
+    "landing_quality": 0.34,
+    "business_priority": 0.58
+  },
+  {
+    "query": "football pack",
+    "popularity": 4414,
+    "landing_quality": 0.72,
+    "business_priority": 0.63
+  },
+  {
+    "query": "toothpaste sale",
+    "popularity": 6065,
+    "landing_quality": 0.62,
+    "business_priority": 0.17
+  },
+  {
+    "query": "running shoes 2025 edition",
+    "popularity": 1883,
+    "landing_quality": 0.42,
+    "business_priority": 0.65
+  },
+  {
+    "query": "sd card 2025 edition",
+    "popularity": 7698,
+    "landing_quality": 0.22,
+    "business_priority": 0.32
+  },
+  {
+    "query": "laptop bag buy",
+    "popularity": 3115,
+    "landing_quality": 0.87,
+    "business_priority": 0.26
+  },
+  {
+    "query": "refrigerator online",
+    "popularity": 8506,
+    "landing_quality": 0.31,
+    "business_priority": 0.76
+  },
+  {
+    "query": "face wash discount",
+    "popularity": 4473,
+    "landing_quality": 0.39,
+    "business_priority": 0.86
+  },
+  {
+    "query": "football combo",
+    "popularity": 935,
+    "landing_quality": 0.66,
+    "business_priority": 0.86
+  },
+  {
+    "query": "nail polish best offer",
+    "popularity": 1533,
+    "landing_quality": 0.86,
+    "business_priority": 0.56
+  },
+  {
+    "query": "vacuum cleaner 2025 edition",
+    "popularity": 5749,
+    "landing_quality": 0.15,
+    "business_priority": 0.82
+  },
+  {
+    "query": "sanitizer low price",
+    "popularity": 3120,
+    "landing_quality": 0.34,
+    "business_priority": 0.26
+  },
+  {
+    "query": "cricket bat low price",
+    "popularity": 3046,
+    "landing_quality": 0.15,
+    "business_priority": 0.85
+  },
+  {
+    "query": "samsung earbuds sale",
+    "popularity": 2744,
+    "landing_quality": 0.19,
+    "business_priority": 0.63
+  },
+  {
+    "query": "floor cleaner low price",
+    "popularity": 5704,
+    "landing_quality": 0.5,
+    "business_priority": 0.31
+  },
+  {
+    "query": "running shoes",
+    "popularity": 9048,
+    "landing_quality": 0.81,
+    "business_priority": 0.32
+  },
+  {
+    "query": "samsung charger online",
+    "popularity": 4437,
+    "landing_quality": 0.35,
+    "business_priority": 0.5
+  },
+  {
+    "query": "running shoes low price",
+    "popularity": 3715,
+    "landing_quality": 0.29,
+    "business_priority": 0.28
+  },
+  {
+    "query": "macbook air buy",
+    "popularity": 8082,
+    "landing_quality": 0.28,
+    "business_priority": 0.58
+  },
+  {
+    "query": "android tv pack",
+    "popularity": 8589,
+    "landing_quality": 0.26,
+    "business_priority": 0.59
+  },
+  {
+    "query": "sports shoes buy",
+    "popularity": 8775,
+    "landing_quality": 0.74,
+    "business_priority": 0.31
+  },
+  {
+    "query": "ceiling fan best offer",
+    "popularity": 4454,
+    "landing_quality": 0.22,
+    "business_priority": 0.95
+  },
+  {
+    "query": "gym gloves combo",
+    "popularity": 785,
+    "landing_quality": 0.53,
+    "business_priority": 0.7
+  },
+  {
+    "query": "macbook air buy",
+    "popularity": 4485,
+    "landing_quality": 0.13,
+    "business_priority": 0.24
+  },
+  {
+    "query": "exercise bike pack",
+    "popularity": 3507,
+    "landing_quality": 0.11,
+    "business_priority": 0.43
+  },
+  {
+    "query": "laptop cooling pad pack",
+    "popularity": 4758,
+    "landing_quality": 0.79,
+    "business_priority": 0.89
+  },
+  {
+    "query": "SmartWatch 2025 edition",
+    "popularity": 9671,
+    "landing_quality": 0.91,
+    "business_priority": 0.53
+  },
+  {
+    "query": "flip flops online",
+    "popularity": 5596,
+    "landing_quality": 0.29,
+    "business_priority": 0.12
+  },
+  {
+    "query": "smart tv sale",
+    "popularity": 3816,
+    "landing_quality": 0.46,
+    "business_priority": 0.22
+  },
+  {
+    "query": "trimmer buy",
+    "popularity": 1273,
+    "landing_quality": 0.99,
+    "business_priority": 0.7
+  },
+  {
+    "query": "usb c cable pack",
+    "popularity": 4861,
+    "landing_quality": 0.87,
+    "business_priority": 0.84
+  },
+  {
+    "query": "kids wear pack",
+    "popularity": 4295,
+    "landing_quality": 0.86,
+    "business_priority": 0.73
+  },
+  {
+    "query": "laptop stand buy",
+    "popularity": 5182,
+    "landing_quality": 0.86,
+    "business_priority": 0.22
+  },
+  {
+    "query": "wireless mouse low price",
+    "popularity": 8039,
+    "landing_quality": 0.75,
+    "business_priority": 0.33
+  },
+  {
+    "query": "sports shoes sale",
+    "popularity": 8815,
+    "landing_quality": 0.16,
+    "business_priority": 0.84
+  },
+  {
+    "query": "laptop stand sale",
+    "popularity": 8876,
+    "landing_quality": 0.18,
+    "business_priority": 0.65
+  },
+  {
+    "query": "dslr camera combo",
+    "popularity": 1911,
+    "landing_quality": 0.51,
+    "business_priority": 0.21
+  },
+  {
+    "query": "football buy",
+    "popularity": 4214,
+    "landing_quality": 0.6,
+    "business_priority": 0.76
+  },
+  {
+    "query": "compact powder low price",
+    "popularity": 6043,
+    "landing_quality": 0.27,
+    "business_priority": 0.82
+  },
+  {
+    "query": "smart tv online",
+    "popularity": 1897,
+    "landing_quality": 0.13,
+    "business_priority": 0.7
+  },
+  {
+    "query": "detergent best offer",
+    "popularity": 3118,
+    "landing_quality": 0.94,
+    "business_priority": 0.89
+  },
+  {
+    "query": "body lotion buy",
+    "popularity": 5411,
+    "landing_quality": 0.55,
+    "business_priority": 0.97
+  },
+  {
+    "query": "backpack low price",
+    "popularity": 4222,
+    "landing_quality": 0.28,
+    "business_priority": 0.45
+  },
+  {
+    "query": "school bag pack",
+    "popularity": 7656,
+    "landing_quality": 0.99,
+    "business_priority": 0.9
+  },
+  {
+    "query": "laptop stand pack",
+    "popularity": 9527,
+    "landing_quality": 0.17,
+    "business_priority": 0.74
+  },
+  {
+    "query": "toothpaste 2025 edition",
+    "popularity": 4431,
+    "landing_quality": 0.98,
+    "business_priority": 0.16
+  },
+  {
+    "query": "protein powder low price",
+    "popularity": 8977,
+    "landing_quality": 0.89,
+    "business_priority": 0.23
+  },
+  {
+    "query": "foundation discount",
+    "popularity": 7192,
+    "landing_quality": 0.38,
+    "business_priority": 0.13
+  },
+  {
+    "query": "wallet best offer",
+    "popularity": 9061,
+    "landing_quality": 0.59,
+    "business_priority": 0.12
+  },
+  {
+    "query": "dslr camera discount",
+    "popularity": 8018,
+    "landing_quality": 0.66,
+    "business_priority": 0.65
+  },
+  {
+    "query": "mascara 2025 edition",
+    "popularity": 1035,
+    "landing_quality": 0.29,
+    "business_priority": 0.67
+  },
+  {
+    "query": "mobile cover buy",
+    "popularity": 7931,
+    "landing_quality": 0.95,
+    "business_priority": 0.4
+  },
+  {
+    "query": "yoga mat discount",
+    "popularity": 549,
+    "landing_quality": 0.43,
+    "business_priority": 0.85
+  },
+  {
+    "query": "cricket bat online",
+    "popularity": 2128,
+    "landing_quality": 0.83,
+    "business_priority": 0.55
+  },
+  {
+    "query": "mechanical keyboard best offer",
+    "popularity": 4308,
+    "landing_quality": 0.36,
+    "business_priority": 0.37
+  },
+  {
+    "query": "gas stove buy",
+    "popularity": 6157,
+    "landing_quality": 0.37,
+    "business_priority": 0.55
+  },
+  {
+    "query": "face mask pack",
+    "popularity": 4962,
+    "landing_quality": 0.41,
+    "business_priority": 0.75
+  },
+  {
+    "query": "compact powder low price",
+    "popularity": 8093,
+    "landing_quality": 0.11,
+    "business_priority": 0.75
+  },
+  {
+    "query": "vacuum cleaner combo",
+    "popularity": 760,
+    "landing_quality": 0.18,
+    "business_priority": 0.94
+  },
+  {
+    "query": "detergent online",
+    "popularity": 2055,
+    "landing_quality": 0.42,
+    "business_priority": 0.35
+  },
+  {
+    "query": "kids wear low price",
+    "popularity": 7306,
+    "landing_quality": 0.65,
+    "business_priority": 0.87
+  },
+  {
+    "query": "smartwatch for Men",
+    "popularity": 3999,
+    "landing_quality": 0.21,
+    "business_priority": 0.78
+  },
+  {
+    "query": "samsung charger discount",
+    "popularity": 9516,
+    "landing_quality": 0.97,
+    "business_priority": 0.19
+  },
+  {
+    "query": "gym gloves pack",
+    "popularity": 1096,
+    "landing_quality": 0.57,
+    "business_priority": 0.67
+  },
+  {
+    "query": "detergent pack",
+    "popularity": 1599,
+    "landing_quality": 0.11,
+    "business_priority": 0.93
+  },
+  {
+    "query": "microwave oven discount",
+    "popularity": 2557,
+    "landing_quality": 0.66,
+    "business_priority": 0.73
+  },
+  {
+    "query": "toothbrush buy",
+    "popularity": 9405,
+    "landing_quality": 0.31,
+    "business_priority": 0.52
+  },
+  {
+    "query": "usb c cable sale",
+    "popularity": 1086,
+    "landing_quality": 0.56,
+    "business_priority": 0.27
+  },
+  {
+    "query": "sports shoes 2025 edition",
+    "popularity": 2721,
+    "landing_quality": 0.44,
+    "business_priority": 0.23
+  },
+  {
+    "query": "samsung earbuds best offer",
+    "popularity": 5294,
+    "landing_quality": 0.32,
+    "business_priority": 0.65
+  },
+  {
+    "query": "laptop stand buy",
+    "popularity": 1363,
+    "landing_quality": 0.23,
+    "business_priority": 0.12
+  },
+  {
+    "query": "mechanical keyboard low price",
+    "popularity": 1710,
+    "landing_quality": 0.89,
+    "business_priority": 0.21
+  },
+  {
+    "query": "face serum low price",
+    "popularity": 4205,
+    "landing_quality": 0.81,
+    "business_priority": 0.82
+  },
+  {
+    "query": "digital watch best offer",
+    "popularity": 1033,
+    "landing_quality": 0.75,
+    "business_priority": 0.39
+  },
+  {
+    "query": "laptop stand online",
+    "popularity": 6615,
+    "landing_quality": 0.98,
+    "business_priority": 0.64
+  },
+  {
+    "query": "macbook air discount",
+    "popularity": 6209,
+    "landing_quality": 0.31,
+    "business_priority": 0.72
+  },
+  {
+    "query": "wrist watch latest",
+    "popularity": 8655,
+    "landing_quality": 0.83,
+    "business_priority": 0.85
+  },
+  {
+    "query": "eye liner online",
+    "popularity": 6118,
+    "landing_quality": 0.48,
+    "business_priority": 0.41
+  },
+  {
+    "query": "laptop stand latest",
+    "popularity": 3858,
+    "landing_quality": 0.71,
+    "business_priority": 0.69
+  },
+  {
+    "query": "trimmer 2025 edition",
+    "popularity": 6326,
+    "landing_quality": 0.34,
+    "business_priority": 0.18
+  },
+  {
+    "query": "body lotion discount",
+    "popularity": 284,
+    "landing_quality": 0.52,
+    "business_priority": 0.91
+  },
+  {
+    "query": "electric kettle low price",
+    "popularity": 5696,
+    "landing_quality": 0.12,
+    "business_priority": 0.68
+  },
+  {
+    "query": "iphone 14 pack",
+    "popularity": 8749,
+    "landing_quality": 0.46,
+    "business_priority": 0.55
+  },
+  {
+    "query": "washing machine low price",
+    "popularity": 7944,
+    "landing_quality": 0.68,
+    "business_priority": 0.4
+  },
+  {
+    "query": "football buy",
+    "popularity": 526,
+    "landing_quality": 0.54,
+    "business_priority": 0.14
+  },
+  {
+    "query": "tv remote latest",
+    "popularity": 5628,
+    "landing_quality": 0.49,
+    "business_priority": 0.58
+  },
+  {
+    "query": "wireless mouse discount",
+    "popularity": 8671,
+    "landing_quality": 0.53,
+    "business_priority": 0.27
+  },
+  {
+    "query": "hair dryer combo",
+    "popularity": 763,
+    "landing_quality": 0.3,
+    "business_priority": 0.96
+  },
+  {
+    "query": "electric kettle discount",
+    "popularity": 2217,
+    "landing_quality": 0.2,
+    "business_priority": 0.45
+  },
+  {
+    "query": "smart watch latest",
+    "popularity": 3957,
+    "landing_quality": 0.97,
+    "business_priority": 0.93
+  },
+  {
+    "query": "formal shoes online",
+    "popularity": 2731,
+    "landing_quality": 0.91,
+    "business_priority": 0.52
+  },
+  {
+    "query": "iphone case buy",
+    "popularity": 9493,
+    "landing_quality": 0.84,
+    "business_priority": 0.76
+  },
+  {
+    "query": "eye liner low price",
+    "popularity": 1195,
+    "landing_quality": 0.57,
+    "business_priority": 0.87
+  },
+  {
+    "query": "nail polish best offer",
+    "popularity": 8856,
+    "landing_quality": 0.99,
+    "business_priority": 0.72
+  },
+  {
+    "query": "backpack buy",
+    "popularity": 331,
+    "landing_quality": 0.65,
+    "business_priority": 0.38
+  },
+  {
+    "query": "face serum 2025 edition",
+    "popularity": 7876,
+    "landing_quality": 0.14,
+    "business_priority": 0.63
+  },
+  {
+    "query": "macbook air online",
+    "popularity": 3987,
+    "landing_quality": 0.59,
+    "business_priority": 0.96
+  },
+  {
+    "query": "ceiling fan low price",
+    "popularity": 4654,
+    "landing_quality": 0.64,
+    "business_priority": 0.38
+  },
+  {
+    "query": "led tv buy",
+    "popularity": 9520,
+    "landing_quality": 0.7,
+    "business_priority": 0.54
+  },
+  {
+    "query": "mascara combo",
+    "popularity": 9506,
+    "landing_quality": 0.79,
+    "business_priority": 0.18
+  },
+  {
+    "query": "floor cleaner discount",
+    "popularity": 721,
+    "landing_quality": 0.87,
+    "business_priority": 0.33
+  },
+  {
+    "query": "badminton racket sale",
+    "popularity": 8718,
+    "landing_quality": 0.69,
+    "business_priority": 0.68
+  },
+  {
+    "query": "mobile cover low price",
+    "popularity": 2046,
+    "landing_quality": 0.43,
+    "business_priority": 0.56
+  },
+  {
+    "query": "exercise bike best offer",
+    "popularity": 668,
+    "landing_quality": 0.42,
+    "business_priority": 0.11
+  },
+  {
+    "query": "macbook pro best offer",
+    "popularity": 5227,
+    "landing_quality": 0.34,
+    "business_priority": 0.87
+  },
+  {
+    "query": "iphone case discount",
+    "popularity": 6062,
+    "landing_quality": 0.39,
+    "business_priority": 0.33
+  },
+  {
+    "query": "iphone charger discount",
+    "popularity": 3831,
+    "landing_quality": 0.65,
+    "business_priority": 0.96
+  },
+  {
+    "query": "night cream low price",
+    "popularity": 8469,
+    "landing_quality": 0.34,
+    "business_priority": 0.67
+  },
+  {
+    "query": "air conditioner latest",
+    "popularity": 9233,
+    "landing_quality": 0.11,
+    "business_priority": 0.33
+  },
+  {
+    "query": "gas stove best offer",
+    "popularity": 8307,
+    "landing_quality": 0.44,
+    "business_priority": 0.52
+  },
+  {
+    "query": "basketball shoes discount",
+    "popularity": 1026,
+    "landing_quality": 0.3,
+    "business_priority": 0.79
+  },
+  {
+    "query": "vacuum cleaner best offer",
+    "popularity": 2218,
+    "landing_quality": 0.78,
+    "business_priority": 0.41
+  },
+  {
+    "query": "water purifier low price",
+    "popularity": 3263,
+    "landing_quality": 0.87,
+    "business_priority": 0.43
+  },
+  {
+    "query": "basketball shoes best offer",
+    "popularity": 6951,
+    "landing_quality": 0.48,
+    "business_priority": 0.98
+  },
+  {
+    "query": "football low price",
+    "popularity": 3646,
+    "landing_quality": 0.36,
+    "business_priority": 0.12
+  },
+  {
+    "query": "ceiling fan combo",
+    "popularity": 9234,
+    "landing_quality": 0.24,
+    "business_priority": 0.57
+  },
+  {
+    "query": "nail polish low price",
+    "popularity": 9054,
+    "landing_quality": 0.62,
+    "business_priority": 0.16
+  },
+  {
+    "query": "women's dress pack",
+    "popularity": 3208,
+    "landing_quality": 0.98,
+    "business_priority": 0.98
+  },
+  {
+    "query": "laptop stand pack",
+    "popularity": 4431,
+    "landing_quality": 0.11,
+    "business_priority": 0.54
+  },
+  {
+    "query": "toothpaste best offer",
+    "popularity": 3333,
+    "landing_quality": 0.74,
+    "business_priority": 0.83
+  },
+  {
+    "query": "basketball shoes online",
+    "popularity": 1712,
+    "landing_quality": 0.24,
+    "business_priority": 0.53
+  },
+  {
+    "query": "detergent low price",
+    "popularity": 4866,
+    "landing_quality": 0.53,
+    "business_priority": 0.81
+  },
+  {
+    "query": "foundation online",
+    "popularity": 4230,
+    "landing_quality": 0.79,
+    "business_priority": 0.86
+  },
+  {
+    "query": "shaving kit low price",
+    "popularity": 8903,
+    "landing_quality": 0.53,
+    "business_priority": 0.3
+  },
+  {
+    "query": "iphone 13 sale",
+    "popularity": 8272,
+    "landing_quality": 0.2,
+    "business_priority": 0.74
+  },
+  {
+    "query": "iphone 14 sale",
+    "popularity": 4234,
+    "landing_quality": 0.58,
+    "business_priority": 1.0
+  },
+  {
+    "query": "exercise bike best offer",
+    "popularity": 9028,
+    "landing_quality": 0.31,
+    "business_priority": 0.71
+  },
+  {
+    "query": "protein powder low price",
+    "popularity": 2180,
+    "landing_quality": 0.48,
+    "business_priority": 0.81
+  },
+  {
+    "query": "sports shoes low price",
+    "popularity": 1584,
+    "landing_quality": 0.27,
+    "business_priority": 0.23
+  },
+  {
+    "query": "fitness band combo",
+    "popularity": 1592,
+    "landing_quality": 0.53,
+    "business_priority": 0.42
+  },
+  {
+    "query": "wrist watch online",
+    "popularity": 8433,
+    "landing_quality": 0.77,
+    "business_priority": 0.5
+  },
+  {
+    "query": "basketball shoes buy",
+    "popularity": 7514,
+    "landing_quality": 0.63,
+    "business_priority": 0.91
+  },
+  {
+    "query": "detergent online",
+    "popularity": 7281,
+    "landing_quality": 0.85,
+    "business_priority": 0.99
+  },
+  {
+    "query": "women's dress latest",
+    "popularity": 6291,
+    "landing_quality": 0.56,
+    "business_priority": 0.1
+  },
+  {
+    "query": "night cream combo",
+    "popularity": 7139,
+    "landing_quality": 0.24,
+    "business_priority": 0.12
+  },
+  {
+    "query": "mechanical keyboard combo",
+    "popularity": 7344,
+    "landing_quality": 0.77,
+    "business_priority": 0.5
+  },
+  {
+    "query": "hair dryer latest",
+    "popularity": 5973,
+    "landing_quality": 0.44,
+    "business_priority": 0.72
+  },
+  {
+    "query": "electric kettle latest",
+    "popularity": 6781,
+    "landing_quality": 0.75,
+    "business_priority": 0.59
+  },
+  {
+    "query": "room heater discount",
+    "popularity": 4964,
+    "landing_quality": 0.18,
+    "business_priority": 0.84
+  },
+  {
+    "query": "digital watch combo",
+    "popularity": 620,
+    "landing_quality": 0.46,
+    "business_priority": 0.78
+  },
+  {
+    "query": "formal shoes sale",
+    "popularity": 7549,
+    "landing_quality": 0.91,
+    "business_priority": 0.6
+  },
+  {
+    "query": "electric kettle online",
+    "popularity": 4459,
+    "landing_quality": 0.47,
+    "business_priority": 0.77
+  },
+  {
+    "query": "smart tv buy",
+    "popularity": 6569,
+    "landing_quality": 0.74,
+    "business_priority": 0.59
+  },
+  {
+    "query": "kids wear online",
+    "popularity": 9767,
+    "landing_quality": 0.91,
+    "business_priority": 0.63
+  },
+  {
+    "query": "sd card pack",
+    "popularity": 829,
+    "landing_quality": 0.25,
+    "business_priority": 0.36
+  },
+  {
+    "query": "wallet latest",
+    "popularity": 1752,
+    "landing_quality": 0.21,
+    "business_priority": 0.83
+  },
+  {
+    "query": "vacuum cleaner 2025 edition",
+    "popularity": 1199,
+    "landing_quality": 0.21,
+    "business_priority": 0.72
+  },
+  {
+    "query": "foundation best offer",
+    "popularity": 5075,
+    "landing_quality": 0.3,
+    "business_priority": 0.47
+  },
+  {
+    "query": "basketball shoes 2025 edition",
+    "popularity": 2617,
+    "landing_quality": 0.55,
+    "business_priority": 0.98
+  },
+  {
+    "query": "running shoes pack",
+    "popularity": 3521,
+    "landing_quality": 0.13,
+    "business_priority": 0.67
+  },
+  {
+    "query": "toilet cleaner online",
+    "popularity": 5688,
+    "landing_quality": 0.13,
+    "business_priority": 0.36
+  },
+  {
+    "query": "dishwasher 2025 edition",
+    "popularity": 7038,
+    "landing_quality": 0.88,
+    "business_priority": 0.73
+  },
+  {
+    "query": "badminton racket online",
+    "popularity": 3777,
+    "landing_quality": 0.48,
+    "business_priority": 0.51
+  },
+  {
+    "query": "macbook air latest",
+    "popularity": 8213,
+    "landing_quality": 0.64,
+    "business_priority": 0.93
+  },
+  {
+    "query": "foundation sale",
+    "popularity": 387,
+    "landing_quality": 0.76,
+    "business_priority": 0.64
+  },
+  {
+    "query": "power bank latest",
+    "popularity": 9380,
+    "landing_quality": 0.75,
+    "business_priority": 0.3
+  },
+  {
+    "query": "face wash discount",
+    "popularity": 2467,
+    "landing_quality": 0.34,
+    "business_priority": 0.33
+  },
+  {
+    "query": "mobile cover pack",
+    "popularity": 8567,
+    "landing_quality": 0.44,
+    "business_priority": 0.63
+  },
+  {
+    "query": "school bag 2025 edition",
+    "popularity": 2043,
+    "landing_quality": 0.94,
+    "business_priority": 0.96
+  },
+  {
+    "query": "water purifier sale",
+    "popularity": 324,
+    "landing_quality": 0.67,
+    "business_priority": 0.59
+  },
+  {
+    "query": "analog watch pack",
+    "popularity": 3910,
+    "landing_quality": 0.69,
+    "business_priority": 0.86
+  },
+  {
+    "query": "analog watch latest",
+    "popularity": 4243,
+    "landing_quality": 0.81,
+    "business_priority": 0.45
+  },
+  {
+    "query": "induction cooktop low price",
+    "popularity": 3111,
+    "landing_quality": 0.5,
+    "business_priority": 0.12
+  },
+  {
+    "query": "shaving kit combo",
+    "popularity": 1937,
+    "landing_quality": 0.37,
+    "business_priority": 0.76
+  },
+  {
+    "query": "iphone 14 best offer",
+    "popularity": 6032,
+    "landing_quality": 0.24,
+    "business_priority": 0.24
+  },
+  {
+    "query": "eye liner best offer",
+    "popularity": 4113,
+    "landing_quality": 0.63,
+    "business_priority": 0.1
+  },
+  {
+    "query": "mobile cover latest",
+    "popularity": 4529,
+    "landing_quality": 0.98,
+    "business_priority": 0.55
+  },
+  {
+    "query": "tv remote pack",
+    "popularity": 7374,
+    "landing_quality": 0.47,
+    "business_priority": 0.38
+  },
+  {
+    "query": "laptop bag 2025 edition",
+    "popularity": 3952,
+    "landing_quality": 0.45,
+    "business_priority": 0.88
+  },
+  {
+    "query": "macbook air 2025 edition",
+    "popularity": 6577,
+    "landing_quality": 0.39,
+    "business_priority": 0.57
+  },
+  {
+    "query": "basketball shoes sale",
+    "popularity": 258,
+    "landing_quality": 0.32,
+    "business_priority": 0.24
+  },
+  {
+    "query": "wireless mouse online",
+    "popularity": 3869,
+    "landing_quality": 0.15,
+    "business_priority": 0.4
+  },
+  {
+    "query": "face mask pack",
+    "popularity": 293,
+    "landing_quality": 0.17,
+    "business_priority": 0.32
+  },
+  {
+    "query": "power bank 2025 edition",
+    "popularity": 469,
+    "landing_quality": 0.87,
+    "business_priority": 0.91
+  },
+  {
+    "query": "basketball shoes online",
+    "popularity": 1641,
+    "landing_quality": 0.79,
+    "business_priority": 0.55
+  },
+  {
+    "query": "detergent sale",
+    "popularity": 6821,
+    "landing_quality": 0.98,
+    "business_priority": 0.71
+  },
+  {
+    "query": "refrigerator online",
+    "popularity": 6751,
+    "landing_quality": 0.98,
+    "business_priority": 0.13
+  },
+  {
+    "query": "dumbbells low price",
+    "popularity": 7037,
+    "landing_quality": 0.16,
+    "business_priority": 0.23
+  },
+  {
+    "query": "analog watch discount",
+    "popularity": 9706,
+    "landing_quality": 0.65,
+    "business_priority": 0.44
+  },
+  {
+    "query": "school bag online",
+    "popularity": 2687,
+    "landing_quality": 0.49,
+    "business_priority": 0.59
+  },
+  {
+    "query": "sling bag buy",
+    "popularity": 879,
+    "landing_quality": 0.28,
+    "business_priority": 0.88
+  },
+  {
+    "query": "shaving kit low price",
+    "popularity": 5359,
+    "landing_quality": 0.64,
+    "business_priority": 0.95
+  },
+  {
+    "query": "android tv pack",
+    "popularity": 9209,
+    "landing_quality": 0.3,
+    "business_priority": 0.78
+  },
+  {
+    "query": "refrigerator online",
+    "popularity": 2592,
+    "landing_quality": 0.91,
+    "business_priority": 0.19
+  },
+  {
+    "query": "badminton racket best offer",
+    "popularity": 9080,
+    "landing_quality": 0.39,
+    "business_priority": 0.38
+  },
+  {
+    "query": "protein powder buy",
+    "popularity": 1720,
+    "landing_quality": 0.81,
+    "business_priority": 0.7
+  },
+  {
+    "query": "air conditioner discount",
+    "popularity": 4222,
+    "landing_quality": 0.93,
+    "business_priority": 0.32
+  },
+  {
+    "query": "casual shoes low price",
+    "popularity": 6466,
+    "landing_quality": 0.45,
+    "business_priority": 0.9
+  },
+  {
+    "query": "badminton racket pack",
+    "popularity": 9001,
+    "landing_quality": 0.69,
+    "business_priority": 0.86
+  },
+  {
+    "query": "night cream discount",
+    "popularity": 7728,
+    "landing_quality": 0.82,
+    "business_priority": 0.57
+  },
+  {
+    "query": "mirrorless camera best offer",
+    "popularity": 1709,
+    "landing_quality": 0.86,
+    "business_priority": 0.46
+  },
+  {
+    "query": "running shoes pack",
+    "popularity": 7759,
+    "landing_quality": 0.98,
+    "business_priority": 0.6
+  },
+  {
+    "query": "hand bag latest",
+    "popularity": 1838,
+    "landing_quality": 0.67,
+    "business_priority": 0.82
+  },
+  {
+    "query": "exercise bike low price",
+    "popularity": 7552,
+    "landing_quality": 0.55,
+    "business_priority": 0.63
+  },
+  {
+    "query": "detergent discount",
+    "popularity": 6359,
+    "landing_quality": 0.57,
+    "business_priority": 0.78
+  },
+  {
+    "query": "iphone charger best offer",
+    "popularity": 4955,
+    "landing_quality": 0.15,
+    "business_priority": 0.27
+  },
+  {
+    "query": "camera tripod buy",
+    "popularity": 3759,
+    "landing_quality": 0.31,
+    "business_priority": 0.91
+  },
+  {
+    "query": "protein powder low price",
+    "popularity": 5117,
+    "landing_quality": 0.7,
+    "business_priority": 0.95
+  },
+  {
+    "query": "camera tripod pack",
+    "popularity": 8197,
+    "landing_quality": 0.93,
+    "business_priority": 0.35
+  },
+  {
+    "query": "power bank best offer",
+    "popularity": 6807,
+    "landing_quality": 0.88,
+    "business_priority": 0.87
+  },
+  {
+    "query": "macbook charger latest",
+    "popularity": 1134,
+    "landing_quality": 0.67,
+    "business_priority": 0.47
+  },
+  {
+    "query": "camera tripod sale",
+    "popularity": 6496,
+    "landing_quality": 0.93,
+    "business_priority": 0.6
+  },
+  {
+    "query": "protein powder 2025 edition",
+    "popularity": 2073,
+    "landing_quality": 0.95,
+    "business_priority": 0.96
+  },
+  {
+    "query": "power bank 2025 edition",
+    "popularity": 9844,
+    "landing_quality": 0.33,
+    "business_priority": 0.87
+  },
+  {
+    "query": "samsung charger discount",
+    "popularity": 8251,
+    "landing_quality": 0.36,
+    "business_priority": 0.56
+  },
+  {
+    "query": "macbook case best offer",
+    "popularity": 5750,
+    "landing_quality": 0.14,
+    "business_priority": 0.52
+  },
+  {
+    "query": "macbook charger low price",
+    "popularity": 9894,
+    "landing_quality": 0.79,
+    "business_priority": 0.74
+  },
+  {
+    "query": "face serum combo",
+    "popularity": 6009,
+    "landing_quality": 0.7,
+    "business_priority": 0.57
+  },
+  {
+    "query": "face serum combo",
+    "popularity": 8333,
+    "landing_quality": 0.53,
+    "business_priority": 0.79
+  },
+  {
+    "query": "trolley bag online",
+    "popularity": 4975,
+    "landing_quality": 0.68,
+    "business_priority": 0.35
+  },
+  {
+    "query": "digital watch combo",
+    "popularity": 2188,
+    "landing_quality": 0.44,
+    "business_priority": 0.95
+  },
+  {
+    "query": "refrigerator 2025 edition",
+    "popularity": 8156,
+    "landing_quality": 0.18,
+    "business_priority": 0.61
+  },
+  {
+    "query": "wallet online",
+    "popularity": 2009,
+    "landing_quality": 0.5,
+    "business_priority": 0.5
+  },
+  {
+    "query": "protein powder pack",
+    "popularity": 1952,
+    "landing_quality": 0.72,
+    "business_priority": 0.74
+  },
+  {
+    "query": "casual shoes discount",
+    "popularity": 4399,
+    "landing_quality": 0.17,
+    "business_priority": 0.91
+  },
+  {
+    "query": "macbook charger best offer",
+    "popularity": 2121,
+    "landing_quality": 0.8,
+    "business_priority": 0.81
+  },
+  {
+    "query": "yoga mat 2025 edition",
+    "popularity": 4547,
+    "landing_quality": 0.8,
+    "business_priority": 0.3
+  },
+  {
+    "query": "power bank discount",
+    "popularity": 2948,
+    "landing_quality": 0.17,
+    "business_priority": 0.14
+  },
+  {
+    "query": "nail polish buy",
+    "popularity": 7722,
+    "landing_quality": 0.27,
+    "business_priority": 0.19
+  },
+  {
+    "query": "mirrorless camera best offer",
+    "popularity": 3542,
+    "landing_quality": 0.29,
+    "business_priority": 0.9
+  },
+  {
+    "query": "exercise bike sale",
+    "popularity": 832,
+    "landing_quality": 0.36,
+    "business_priority": 0.48
+  },
+  {
+    "query": "bluetooth speaker combo",
+    "popularity": 4854,
+    "landing_quality": 0.14,
+    "business_priority": 0.65
+  },
+  {
+    "query": "dslr camera low price",
+    "popularity": 1400,
+    "landing_quality": 0.24,
+    "business_priority": 0.1
+  },
+  {
+    "query": "mascara sale",
+    "popularity": 4504,
+    "landing_quality": 0.68,
+    "business_priority": 0.69
+  },
+  {
+    "query": "detergent discount",
+    "popularity": 9962,
+    "landing_quality": 0.52,
+    "business_priority": 0.35
+  },
+  {
+    "query": "wallet pack",
+    "popularity": 8396,
+    "landing_quality": 0.97,
+    "business_priority": 0.25
+  },
+  {
+    "query": "trimmer sale",
+    "popularity": 9066,
+    "landing_quality": 0.1,
+    "business_priority": 0.52
+  },
+  {
+    "query": "fitness band sale",
+    "popularity": 2455,
+    "landing_quality": 0.36,
+    "business_priority": 0.1
+  },
+  {
+    "query": "samsung galaxy s21 combo",
+    "popularity": 8318,
+    "landing_quality": 0.66,
+    "business_priority": 0.46
+  },
+  {
+    "query": "room heater low price",
+    "popularity": 1702,
+    "landing_quality": 0.46,
+    "business_priority": 0.38
+  },
+  {
+    "query": "induction cooktop latest",
+    "popularity": 9608,
+    "landing_quality": 0.66,
+    "business_priority": 0.52
+  },
+  {
+    "query": "smart tv discount",
+    "popularity": 3294,
+    "landing_quality": 0.66,
+    "business_priority": 0.77
+  },
+  {
+    "query": "mascara latest",
+    "popularity": 4020,
+    "landing_quality": 0.89,
+    "business_priority": 0.39
+  },
+  {
+    "query": "macbook pro latest",
+    "popularity": 143,
+    "landing_quality": 0.63,
+    "business_priority": 0.95
+  },
+  {
+    "query": "cricket bat online",
+    "popularity": 7088,
+    "landing_quality": 0.17,
+    "business_priority": 0.8
+  },
+  {
+    "query": "running shoes best offer",
+    "popularity": 6245,
+    "landing_quality": 0.99,
+    "business_priority": 0.5
+  },
+  {
+    "query": "power bank online",
+    "popularity": 3159,
+    "landing_quality": 0.57,
+    "business_priority": 0.12
+  },
+  {
+    "query": "air conditioner discount",
+    "popularity": 5117,
+    "landing_quality": 0.32,
+    "business_priority": 0.37
+  },
+  {
+    "query": "electric kettle best offer",
+    "popularity": 8363,
+    "landing_quality": 0.13,
+    "business_priority": 0.66
+  },
+  {
+    "query": "macbook pro online",
+    "popularity": 463,
+    "landing_quality": 0.25,
+    "business_priority": 0.66
+  },
+  {
+    "query": "samsung galaxy s21 buy",
+    "popularity": 3469,
+    "landing_quality": 0.66,
+    "business_priority": 0.52
+  },
+  {
+    "query": "mirrorless camera latest",
+    "popularity": 736,
+    "landing_quality": 0.87,
+    "business_priority": 0.47
+  },
+  {
+    "query": "smart tv online",
+    "popularity": 1234,
+    "landing_quality": 0.23,
+    "business_priority": 0.96
+  },
+  {
+    "query": "flip flops latest",
+    "popularity": 8260,
+    "landing_quality": 0.71,
+    "business_priority": 0.16
+  },
+  {
+    "query": "gaming mouse pack",
+    "popularity": 4887,
+    "landing_quality": 0.94,
+    "business_priority": 0.74
+  },
+  {
+    "query": "formal shoes best offer",
+    "popularity": 4911,
+    "landing_quality": 0.14,
+    "business_priority": 0.19
+  },
+  {
+    "query": "dumbbells combo",
+    "popularity": 7397,
+    "landing_quality": 0.47,
+    "business_priority": 0.11
+  },
+  {
+    "query": "exercise bike latest",
+    "popularity": 6585,
+    "landing_quality": 0.92,
+    "business_priority": 0.95
+  },
+  {
+    "query": "badminton racket best offer",
+    "popularity": 6560,
+    "landing_quality": 0.78,
+    "business_priority": 0.46
+  },
+  {
+    "query": "sd card online",
+    "popularity": 1498,
+    "landing_quality": 0.39,
+    "business_priority": 0.18
+  },
+  {
+    "query": "electric kettle combo",
+    "popularity": 203,
+    "landing_quality": 0.67,
+    "business_priority": 0.37
+  },
+  {
+    "query": "fitness band low price",
+    "popularity": 2214,
+    "landing_quality": 0.59,
+    "business_priority": 0.69
+  },
+  {
+    "query": "iphone 13 combo",
+    "popularity": 8554,
+    "landing_quality": 0.65,
+    "business_priority": 0.7
+  },
+  {
+    "query": "toothpaste 2025 edition",
+    "popularity": 1820,
+    "landing_quality": 0.95,
+    "business_priority": 0.65
+  },
+  {
+    "query": "sd card latest",
+    "popularity": 148,
+    "landing_quality": 0.79,
+    "business_priority": 0.5
+  },
+  {
+    "query": "macbook charger best offer",
+    "popularity": 4118,
+    "landing_quality": 0.13,
+    "business_priority": 0.8
+  },
+  {
+    "query": "trimmer online",
+    "popularity": 9135,
+    "landing_quality": 0.98,
+    "business_priority": 0.61
+  },
+  {
+    "query": "room heater 2025 edition",
+    "popularity": 2585,
+    "landing_quality": 0.42,
+    "business_priority": 0.47
+  },
+  {
+    "query": "air conditioner sale",
+    "popularity": 2762,
+    "landing_quality": 0.59,
+    "business_priority": 0.32
+  },
+  {
+    "query": "tv wall mount buy",
+    "popularity": 5763,
+    "landing_quality": 0.91,
+    "business_priority": 0.55
+  },
+  {
+    "query": "lip balm low price",
+    "popularity": 6221,
+    "landing_quality": 0.82,
+    "business_priority": 0.51
+  },
+  {
+    "query": "basketball shoes pack",
+    "popularity": 4900,
+    "landing_quality": 0.9,
+    "business_priority": 0.71
+  },
+  {
+    "query": "fitness band best offer",
+    "popularity": 8963,
+    "landing_quality": 0.76,
+    "business_priority": 0.24
+  },
+  {
+    "query": "face mask 2025 edition",
+    "popularity": 2299,
+    "landing_quality": 0.34,
+    "business_priority": 0.49
+  },
+  {
+    "query": "flip flops best offer",
+    "popularity": 3110,
+    "landing_quality": 0.48,
+    "business_priority": 0.16
+  },
+  {
+    "query": "face serum 2025 edition",
+    "popularity": 4817,
+    "landing_quality": 0.88,
+    "business_priority": 0.63
+  },
+  {
+    "query": "washing machine sale",
+    "popularity": 7006,
+    "landing_quality": 0.2,
+    "business_priority": 0.14
+  },
+  {
+    "query": "electric kettle buy",
+    "popularity": 1752,
+    "landing_quality": 0.81,
+    "business_priority": 0.45
+  },
+  {
+    "query": "bluetooth speaker buy",
+    "popularity": 9473,
+    "landing_quality": 0.51,
+    "business_priority": 0.6
+  },
+  {
+    "query": "eye liner low price",
+    "popularity": 2177,
+    "landing_quality": 0.87,
+    "business_priority": 0.99
+  },
+  {
+    "query": "samsung galaxy s21 combo",
+    "popularity": 8566,
+    "landing_quality": 0.44,
+    "business_priority": 0.5
+  },
+  {
+    "query": "formal shoes low price",
+    "popularity": 1545,
+    "landing_quality": 0.69,
+    "business_priority": 0.14
+  },
+  {
+    "query": "school bag latest",
+    "popularity": 1473,
+    "landing_quality": 0.76,
+    "business_priority": 0.73
+  },
+  {
+    "query": "toothpaste sale",
+    "popularity": 3893,
+    "landing_quality": 0.51,
+    "business_priority": 0.99
+  },
+  {
+    "query": "flip flops online",
+    "popularity": 9699,
+    "landing_quality": 0.23,
+    "business_priority": 0.44
+  },
+  {
+    "query": "eye liner pack",
+    "popularity": 2263,
+    "landing_quality": 0.25,
+    "business_priority": 0.23
+  },
+  {
+    "query": "basketball shoes discount",
+    "popularity": 7103,
+    "landing_quality": 0.34,
+    "business_priority": 0.54
+  },
+  {
+    "query": "wrist watch sale",
+    "popularity": 6123,
+    "landing_quality": 0.91,
+    "business_priority": 0.12
+  },
+  {
+    "query": "wallet 2025 edition",
+    "popularity": 4090,
+    "landing_quality": 0.31,
+    "business_priority": 0.88
+  },
+  {
+    "query": "foundation combo",
+    "popularity": 7635,
+    "landing_quality": 0.43,
+    "business_priority": 0.79
+  },
+  {
+    "query": "yoga mat online",
+    "popularity": 7310,
+    "landing_quality": 0.97,
+    "business_priority": 0.56
+  },
+  {
+    "query": "shaving kit sale",
+    "popularity": 4286,
+    "landing_quality": 0.19,
+    "business_priority": 0.95
+  },
+  {
+    "query": "floor cleaner sale",
+    "popularity": 5941,
+    "landing_quality": 0.14,
+    "business_priority": 0.48
+  },
+  {
+    "query": "face serum combo",
+    "popularity": 1529,
+    "landing_quality": 0.25,
+    "business_priority": 0.5
+  },
+  {
+    "query": "yoga mat pack",
+    "popularity": 934,
+    "landing_quality": 0.42,
+    "business_priority": 0.93
+  },
+  {
+    "query": "iphone case low price",
+    "popularity": 1659,
+    "landing_quality": 0.45,
+    "business_priority": 0.5
+  },
+  {
+    "query": "hand bag low price",
+    "popularity": 4480,
+    "landing_quality": 0.81,
+    "business_priority": 0.9
+  },
+  {
+    "query": "dumbbells sale",
+    "popularity": 9774,
+    "landing_quality": 0.96,
+    "business_priority": 1.0
+  },
+  {
+    "query": "wireless mouse online",
+    "popularity": 7323,
+    "landing_quality": 0.71,
+    "business_priority": 0.5
+  },
+  {
+    "query": "women's dress combo",
+    "popularity": 6571,
+    "landing_quality": 0.39,
+    "business_priority": 0.51
+  },
+  {
+    "query": "tv wall mount combo",
+    "popularity": 3413,
+    "landing_quality": 0.34,
+    "business_priority": 0.73
+  },
+  {
+    "query": "laptop stand sale",
+    "popularity": 4633,
+    "landing_quality": 0.62,
+    "business_priority": 0.17
+  },
+  {
+    "query": "power bank low price",
+    "popularity": 6738,
+    "landing_quality": 0.48,
+    "business_priority": 0.87
+  },
+  {
+    "query": "laptop stand buy",
+    "popularity": 5386,
+    "landing_quality": 0.23,
+    "business_priority": 0.58
+  },
+  {
+    "query": "trolley bag sale",
+    "popularity": 8455,
+    "landing_quality": 0.8,
+    "business_priority": 0.85
+  },
+  {
+    "query": "mobile cover latest",
+    "popularity": 1134,
+    "landing_quality": 0.57,
+    "business_priority": 0.33
+  },
+  {
+    "query": "iphone 13 low price",
+    "popularity": 4602,
+    "landing_quality": 0.8,
+    "business_priority": 0.94
+  },
+  {
+    "query": "sd card discount",
+    "popularity": 2189,
+    "landing_quality": 0.27,
+    "business_priority": 0.27
+  },
+  {
+    "query": "cricket bat discount",
+    "popularity": 8610,
+    "landing_quality": 0.88,
+    "business_priority": 0.52
+  },
+  {
+    "query": "washing machine best offer",
+    "popularity": 9763,
+    "landing_quality": 0.27,
+    "business_priority": 0.8
+  },
+  {
+    "query": "bluetooth speaker latest",
+    "popularity": 3518,
+    "landing_quality": 0.22,
+    "business_priority": 0.32
+  },
+  {
+    "query": "mobile cover sale",
+    "popularity": 2010,
+    "landing_quality": 0.24,
+    "business_priority": 0.3
+  },
+  {
+    "query": "samsung charger online",
+    "popularity": 992,
+    "landing_quality": 0.26,
+    "business_priority": 0.6
+  },
+  {
+    "query": "sd card 2025 edition",
+    "popularity": 3654,
+    "landing_quality": 0.84,
+    "business_priority": 0.82
+  },
+  {
+    "query": "wireless mouse sale",
+    "popularity": 9125,
+    "landing_quality": 0.93,
+    "business_priority": 0.93
+  },
+  {
+    "query": "analog watch best offer",
+    "popularity": 7640,
+    "landing_quality": 0.95,
+    "business_priority": 0.25
+  },
+  {
+    "query": "camera tripod online",
+    "popularity": 4647,
+    "landing_quality": 0.41,
+    "business_priority": 0.96
+  },
+  {
+    "query": "wireless mouse online",
+    "popularity": 705,
+    "landing_quality": 0.97,
+    "business_priority": 0.27
+  },
+  {
+    "query": "mirrorless camera discount",
+    "popularity": 9607,
+    "landing_quality": 0.19,
+    "business_priority": 0.73
+  },
+  {
+    "query": "trimmer buy",
+    "popularity": 8534,
+    "landing_quality": 0.63,
+    "business_priority": 0.94
+  },
+  {
+    "query": "vacuum cleaner low price",
+    "popularity": 9270,
+    "landing_quality": 0.63,
+    "business_priority": 0.67
+  },
+  {
+    "query": "running shoes low price",
+    "popularity": 6829,
+    "landing_quality": 0.11,
+    "business_priority": 0.54
+  },
+  {
+    "query": "smart watch sale",
+    "popularity": 3729,
+    "landing_quality": 0.96,
+    "business_priority": 0.86
+  },
+  {
+    "query": "hair dryer pack",
+    "popularity": 3339,
+    "landing_quality": 0.93,
+    "business_priority": 0.78
+  },
+  {
+    "query": "compact powder latest",
+    "popularity": 9690,
+    "landing_quality": 0.87,
+    "business_priority": 0.76
+  },
+  {
+    "query": "power bank low price",
+    "popularity": 830,
+    "landing_quality": 0.73,
+    "business_priority": 0.94
+  },
+  {
+    "query": "washing machine 2025 edition",
+    "popularity": 6125,
+    "landing_quality": 0.52,
+    "business_priority": 0.75
+  },
+  {
+    "query": "school bag buy",
+    "popularity": 9667,
+    "landing_quality": 0.96,
+    "business_priority": 0.88
+  },
+  {
+    "query": "dslr camera latest",
+    "popularity": 2449,
+    "landing_quality": 0.59,
+    "business_priority": 0.19
+  },
+  {
+    "query": "school bag combo",
+    "popularity": 2802,
+    "landing_quality": 0.25,
+    "business_priority": 0.75
+  },
+  {
+    "query": "smart watch sale",
+    "popularity": 1406,
+    "landing_quality": 0.74,
+    "business_priority": 0.95
+  },
+  {
+    "query": "microwave oven latest",
+    "popularity": 2797,
+    "landing_quality": 0.57,
+    "business_priority": 0.82
+  },
+  {
+    "query": "sports shoes latest",
+    "popularity": 5981,
+    "landing_quality": 0.44,
+    "business_priority": 0.73
+  },
+  {
+    "query": "casual shoes best offer",
+    "popularity": 7122,
+    "landing_quality": 0.78,
+    "business_priority": 0.36
+  },
+  {
+    "query": "foundation discount",
+    "popularity": 8837,
+    "landing_quality": 0.26,
+    "business_priority": 0.78
+  },
+  {
+    "query": "laptop cooling pad 2025 edition",
+    "popularity": 4159,
+    "landing_quality": 0.34,
+    "business_priority": 0.38
+  },
+  {
+    "query": "macbook pro 2025 edition",
+    "popularity": 3934,
+    "landing_quality": 0.17,
+    "business_priority": 0.73
+  },
+  {
+    "query": "mirrorless camera combo",
+    "popularity": 1743,
+    "landing_quality": 0.39,
+    "business_priority": 0.96
+  },
+  {
+    "query": "vacuum cleaner pack",
+    "popularity": 7661,
+    "landing_quality": 0.78,
+    "business_priority": 0.61
+  },
+  {
+    "query": "dslr camera best offer",
+    "popularity": 4331,
+    "landing_quality": 0.98,
+    "business_priority": 0.48
+  },
+  {
+    "query": "power bank latest",
+    "popularity": 9511,
+    "landing_quality": 0.97,
+    "business_priority": 0.85
+  },
+  {
+    "query": "microwave oven combo",
+    "popularity": 8878,
+    "landing_quality": 0.11,
+    "business_priority": 0.73
+  },
+  {
+    "query": "sanitizer latest",
+    "popularity": 4696,
+    "landing_quality": 0.14,
+    "business_priority": 0.54
+  },
+  {
+    "query": "sunscreen sale",
+    "popularity": 645,
+    "landing_quality": 0.96,
+    "business_priority": 0.33
+  },
+  {
+    "query": "formal shoes buy",
+    "popularity": 7896,
+    "landing_quality": 0.82,
+    "business_priority": 0.99
+  },
+  {
+    "query": "foundation 2025 edition",
+    "popularity": 4609,
+    "landing_quality": 0.23,
+    "business_priority": 0.63
+  },
+  {
+    "query": "toilet cleaner sale",
+    "popularity": 2011,
+    "landing_quality": 0.36,
+    "business_priority": 0.4
+  },
+  {
+    "query": "nail polish 2025 edition",
+    "popularity": 6560,
+    "landing_quality": 0.53,
+    "business_priority": 0.85
+  },
+  {
+    "query": "toothpaste online",
+    "popularity": 1043,
+    "landing_quality": 0.59,
+    "business_priority": 0.19
+  },
+  {
+    "query": "mirrorless camera buy",
+    "popularity": 5926,
+    "landing_quality": 0.43,
+    "business_priority": 0.88
+  },
+  {
+    "query": "samsung earbuds 2025 edition",
+    "popularity": 4313,
+    "landing_quality": 0.47,
+    "business_priority": 0.4
+  },
+  {
+    "query": "usb c cable discount",
+    "popularity": 7358,
+    "landing_quality": 0.35,
+    "business_priority": 0.64
+  },
+  {
+    "query": "iphone 14 sale",
+    "popularity": 9065,
+    "landing_quality": 0.98,
+    "business_priority": 0.35
+  },
+  {
+    "query": "usb c cable pack",
+    "popularity": 9907,
+    "landing_quality": 0.66,
+    "business_priority": 0.79
+  },
+  {
+    "query": "iphone case combo",
+    "popularity": 7203,
+    "landing_quality": 0.74,
+    "business_priority": 0.7
+  },
+  {
+    "query": "bluetooth speaker latest",
+    "popularity": 1971,
+    "landing_quality": 0.28,
+    "business_priority": 0.28
+  },
+  {
+    "query": "laptop stand sale",
+    "popularity": 8330,
+    "landing_quality": 0.35,
+    "business_priority": 0.66
+  },
+  {
+    "query": "eye liner online",
+    "popularity": 8312,
+    "landing_quality": 0.21,
+    "business_priority": 0.16
+  },
+  {
+    "query": "shaving kit 2025 edition",
+    "popularity": 5926,
+    "landing_quality": 0.24,
+    "business_priority": 0.71
+  },
+  {
+    "query": "induction cooktop 2025 edition",
+    "popularity": 849,
+    "landing_quality": 0.61,
+    "business_priority": 0.29
+  },
+  {
+    "query": "microwave oven online",
+    "popularity": 6749,
+    "landing_quality": 0.89,
+    "business_priority": 0.37
+  },
+  {
+    "query": "sunscreen low price",
+    "popularity": 6422,
+    "landing_quality": 0.43,
+    "business_priority": 0.66
+  },
+  {
+    "query": "sports shoes online",
+    "popularity": 265,
+    "landing_quality": 0.33,
+    "business_priority": 0.93
+  },
+  {
+    "query": "gaming mouse buy",
+    "popularity": 1832,
+    "landing_quality": 0.48,
+    "business_priority": 0.99
+  },
+  {
+    "query": "gaming mouse best offer",
+    "popularity": 6717,
+    "landing_quality": 0.48,
+    "business_priority": 0.34
+  },
+  {
+    "query": "badminton racket discount",
+    "popularity": 2036,
+    "landing_quality": 0.16,
+    "business_priority": 0.1
+  },
+  {
+    "query": "casual shoes online",
+    "popularity": 1712,
+    "landing_quality": 0.12,
+    "business_priority": 0.52
+  },
+  {
+    "query": "face serum 2025 edition",
+    "popularity": 6976,
+    "landing_quality": 0.78,
+    "business_priority": 0.34
+  },
+  {
+    "query": "laptop cooling pad low price",
+    "popularity": 6144,
+    "landing_quality": 0.39,
+    "business_priority": 0.23
+  },
+  {
+    "query": "usb c cable combo",
+    "popularity": 4709,
+    "landing_quality": 0.16,
+    "business_priority": 0.54
+  },
+  {
+    "query": "tv remote 2025 edition",
+    "popularity": 8585,
+    "landing_quality": 0.71,
+    "business_priority": 0.77
+  },
+  {
+    "query": "air conditioner latest",
+    "popularity": 3920,
+    "landing_quality": 0.1,
+    "business_priority": 0.19
+  },
+  {
+    "query": "iphone 13 online",
+    "popularity": 5244,
+    "landing_quality": 0.98,
+    "business_priority": 0.32
+  },
+  {
+    "query": "bluetooth speaker latest",
+    "popularity": 1258,
+    "landing_quality": 0.71,
+    "business_priority": 0.77
+  },
+  {
+    "query": "lip balm best offer",
+    "popularity": 9117,
+    "landing_quality": 0.69,
+    "business_priority": 0.76
+  },
+  {
+    "query": "trimmer online",
+    "popularity": 8455,
+    "landing_quality": 0.7,
+    "business_priority": 0.17
+  },
+  {
+    "query": "macbook pro online",
+    "popularity": 4347,
+    "landing_quality": 0.97,
+    "business_priority": 0.44
+  },
+  {
+    "query": "gym gloves sale",
+    "popularity": 3232,
+    "landing_quality": 0.82,
+    "business_priority": 0.42
+  },
+  {
+    "query": "backpack latest",
+    "popularity": 7408,
+    "landing_quality": 0.51,
+    "business_priority": 0.16
+  },
+  {
+    "query": "mechanical keyboard buy",
+    "popularity": 1737,
+    "landing_quality": 0.92,
+    "business_priority": 0.55
+  },
+  {
+    "query": "sports shoes combo",
+    "popularity": 6947,
+    "landing_quality": 0.72,
+    "business_priority": 0.54
+  },
+  {
+    "query": "smart tv sale",
+    "popularity": 5639,
+    "landing_quality": 0.87,
+    "business_priority": 0.53
+  },
+  {
+    "query": "washing machine pack",
+    "popularity": 3203,
+    "landing_quality": 0.72,
+    "business_priority": 0.75
+  },
+  {
+    "query": "night cream low price",
+    "popularity": 6020,
+    "landing_quality": 0.46,
+    "business_priority": 0.83
+  },
+  {
+    "query": "toilet cleaner best offer",
+    "popularity": 5493,
+    "landing_quality": 0.16,
+    "business_priority": 0.48
+  },
+  {
+    "query": "laptop bag buy",
+    "popularity": 7180,
+    "landing_quality": 0.38,
+    "business_priority": 0.56
+  },
+  {
+    "query": "fitness band best offer",
+    "popularity": 3660,
+    "landing_quality": 0.8,
+    "business_priority": 0.72
+  },
+  {
+    "query": "school bag discount",
+    "popularity": 562,
+    "landing_quality": 0.6,
+    "business_priority": 0.42
+  },
+  {
+    "query": "camera tripod latest",
+    "popularity": 7804,
+    "landing_quality": 0.8,
+    "business_priority": 0.68
+  },
+  {
+    "query": "exercise bike sale",
+    "popularity": 6554,
+    "landing_quality": 0.53,
+    "business_priority": 0.23
+  },
+  {
+    "query": "iphone case online",
+    "popularity": 2551,
+    "landing_quality": 0.68,
+    "business_priority": 0.64
+  },
+  {
+    "query": "gym gloves sale",
+    "popularity": 9437,
+    "landing_quality": 0.33,
+    "business_priority": 0.14
+  },
+  {
+    "query": "washing machine sale",
+    "popularity": 8023,
+    "landing_quality": 0.46,
+    "business_priority": 0.74
+  },
+  {
+    "query": "gas stove 2025 edition",
+    "popularity": 7789,
+    "landing_quality": 0.78,
+    "business_priority": 0.58
+  },
+  {
+    "query": "face mask best offer",
+    "popularity": 4025,
+    "landing_quality": 0.57,
+    "business_priority": 0.16
+  },
+  {
+    "query": "yoga mat combo",
+    "popularity": 3446,
+    "landing_quality": 0.44,
+    "business_priority": 0.69
+  },
+  {
+    "query": "formal shoes discount",
+    "popularity": 2553,
+    "landing_quality": 0.97,
+    "business_priority": 0.51
+  },
+  {
+    "query": "macbook case sale",
+    "popularity": 3444,
+    "landing_quality": 0.51,
+    "business_priority": 0.91
+  },
+  {
+    "query": "mechanical keyboard best offer",
+    "popularity": 2905,
+    "landing_quality": 0.48,
+    "business_priority": 0.61
+  },
+  {
+    "query": "wallet latest",
+    "popularity": 5437,
+    "landing_quality": 0.56,
+    "business_priority": 0.58
+  },
+  {
+    "query": "vacuum cleaner latest",
+    "popularity": 6196,
+    "landing_quality": 0.15,
+    "business_priority": 0.39
+  },
+  {
+    "query": "gym gloves best offer",
+    "popularity": 6937,
+    "landing_quality": 0.47,
+    "business_priority": 0.22
+  },
+  {
+    "query": "hair dryer buy",
+    "popularity": 5474,
+    "landing_quality": 0.97,
+    "business_priority": 0.55
+  },
+  {
+    "query": "dslr camera pack",
+    "popularity": 221,
+    "landing_quality": 0.86,
+    "business_priority": 0.54
+  },
+  {
+    "query": "toothbrush online",
+    "popularity": 5120,
+    "landing_quality": 0.69,
+    "business_priority": 0.85
+  },
+  {
+    "query": "kids wear sale",
+    "popularity": 1615,
+    "landing_quality": 0.58,
+    "business_priority": 0.75
+  },
+  {
+    "query": "face mask discount",
+    "popularity": 9506,
+    "landing_quality": 0.49,
+    "business_priority": 0.28
+  },
+  {
+    "query": "bluetooth speaker buy",
+    "popularity": 8088,
+    "landing_quality": 0.8,
+    "business_priority": 0.94
+  },
+  {
+    "query": "hair dryer best offer",
+    "popularity": 2574,
+    "landing_quality": 0.83,
+    "business_priority": 0.53
+  },
+  {
+    "query": "formal shoes low price",
+    "popularity": 288,
+    "landing_quality": 0.4,
+    "business_priority": 0.17
+  },
+  {
+    "query": "washing machine best offer",
+    "popularity": 3543,
+    "landing_quality": 0.4,
+    "business_priority": 0.47
+  },
+  {
+    "query": "macbook charger combo",
+    "popularity": 7456,
+    "landing_quality": 0.22,
+    "business_priority": 0.55
+  },
+  {
+    "query": "casual shoes best offer",
+    "popularity": 6277,
+    "landing_quality": 0.8,
+    "business_priority": 0.47
+  },
+  {
+    "query": "iphone 14 online",
+    "popularity": 6011,
+    "landing_quality": 0.38,
+    "business_priority": 0.36
+  },
+  {
+    "query": "refrigerator pack",
+    "popularity": 2443,
+    "landing_quality": 0.35,
+    "business_priority": 0.37
+  },
+  {
+    "query": "hair dryer buy",
+    "popularity": 1621,
+    "landing_quality": 0.53,
+    "business_priority": 0.31
+  },
+  {
+    "query": "iphone 13 online",
+    "popularity": 760,
+    "landing_quality": 0.54,
+    "business_priority": 0.47
+  },
+  {
+    "query": "laptop stand best offer",
+    "popularity": 761,
+    "landing_quality": 0.78,
+    "business_priority": 0.67
+  },
+  {
+    "query": "toothpaste low price",
+    "popularity": 932,
+    "landing_quality": 0.8,
+    "business_priority": 0.53
+  },
+  {
+    "query": "toilet cleaner 2025 edition",
+    "popularity": 3267,
+    "landing_quality": 0.5,
+    "business_priority": 0.89
+  },
+  {
+    "query": "smart tv low price",
+    "popularity": 8562,
+    "landing_quality": 0.5,
+    "business_priority": 0.56
+  },
+  {
+    "query": "android tv 2025 edition",
+    "popularity": 7110,
+    "landing_quality": 0.68,
+    "business_priority": 0.66
+  },
+  {
+    "query": "running shoes low price",
+    "popularity": 4921,
+    "landing_quality": 0.72,
+    "business_priority": 0.59
+  },
+  {
+    "query": "wrist watch low price",
+    "popularity": 646,
+    "landing_quality": 0.19,
+    "business_priority": 0.99
+  },
+  {
+    "query": "toothpaste combo",
+    "popularity": 8978,
+    "landing_quality": 0.9,
+    "business_priority": 0.57
+  },
+  {
+    "query": "digital watch online",
+    "popularity": 2441,
+    "landing_quality": 0.49,
+    "business_priority": 0.37
+  },
+  {
+    "query": "tv remote combo",
+    "popularity": 5696,
+    "landing_quality": 0.83,
+    "business_priority": 0.46
+  },
+  {
+    "query": "tv wall mount buy",
+    "popularity": 4164,
+    "landing_quality": 0.69,
+    "business_priority": 0.81
+  },
+  {
+    "query": "washing machine discount",
+    "popularity": 1932,
+    "landing_quality": 0.51,
+    "business_priority": 0.72
+  },
+  {
+    "query": "usb c cable pack",
+    "popularity": 6853,
+    "landing_quality": 0.37,
+    "business_priority": 0.7
+  },
+  {
+    "query": "nail polish buy",
+    "popularity": 8618,
+    "landing_quality": 0.71,
+    "business_priority": 1.0
+  },
+  {
+    "query": "power bank online",
+    "popularity": 1621,
+    "landing_quality": 0.4,
+    "business_priority": 0.66
+  },
+  {
+    "query": "cricket bat combo",
+    "popularity": 8714,
+    "landing_quality": 0.96,
+    "business_priority": 0.16
+  },
+  {
+    "query": "treadmill combo",
+    "popularity": 4026,
+    "landing_quality": 0.48,
+    "business_priority": 0.68
+  },
+  {
+    "query": "treadmill pack",
+    "popularity": 4950,
+    "landing_quality": 0.73,
+    "business_priority": 0.22
+  },
+  {
+    "query": "face serum low price",
+    "popularity": 6393,
+    "landing_quality": 0.37,
+    "business_priority": 0.37
+  },
+  {
+    "query": "macbook pro combo",
+    "popularity": 133,
+    "landing_quality": 0.83,
+    "business_priority": 0.85
+  },
+  {
+    "query": "gas stove best offer",
+    "popularity": 2999,
+    "landing_quality": 0.2,
+    "business_priority": 0.31
+  },
+  {
+    "query": "formal shoes latest",
+    "popularity": 852,
+    "landing_quality": 0.62,
+    "business_priority": 0.3
+  },
+  {
+    "query": "sanitizer 2025 edition",
+    "popularity": 1506,
+    "landing_quality": 0.43,
+    "business_priority": 0.38
+  },
+  {
+    "query": "gaming mouse pack",
+    "popularity": 2534,
+    "landing_quality": 0.55,
+    "business_priority": 0.19
+  },
+  {
+    "query": "sd card latest",
+    "popularity": 2258,
+    "landing_quality": 0.37,
+    "business_priority": 0.89
+  },
+  {
+    "query": "iphone case buy",
+    "popularity": 2775,
+    "landing_quality": 0.78,
+    "business_priority": 0.78
+  },
+  {
+    "query": "backpack pack",
+    "popularity": 9552,
+    "landing_quality": 0.81,
+    "business_priority": 0.76
+  },
+  {
+    "query": "basketball shoes 2025 edition",
+    "popularity": 5810,
+    "landing_quality": 0.39,
+    "business_priority": 0.68
+  },
+  {
+    "query": "usb c cable online",
+    "popularity": 8136,
+    "landing_quality": 0.73,
+    "business_priority": 0.93
+  },
+  {
+    "query": "flip flops online",
+    "popularity": 997,
+    "landing_quality": 0.14,
+    "business_priority": 0.31
+  },
+  {
+    "query": "football discount",
+    "popularity": 5767,
+    "landing_quality": 0.76,
+    "business_priority": 0.33
+  },
+  {
+    "query": "body lotion online",
+    "popularity": 984,
+    "landing_quality": 0.32,
+    "business_priority": 0.12
+  },
+  {
+    "query": "air conditioner latest",
+    "popularity": 5265,
+    "landing_quality": 0.85,
+    "business_priority": 0.92
+  },
+  {
+    "query": "induction cooktop online",
+    "popularity": 8868,
+    "landing_quality": 0.16,
+    "business_priority": 0.92
+  },
+  {
+    "query": "nail polish sale",
+    "popularity": 7209,
+    "landing_quality": 0.57,
+    "business_priority": 0.4
+  },
+  {
+    "query": "air conditioner best offer",
+    "popularity": 9697,
+    "landing_quality": 0.13,
+    "business_priority": 0.32
+  },
+  {
+    "query": "hair dryer buy",
+    "popularity": 6424,
+    "landing_quality": 0.13,
+    "business_priority": 0.25
+  },
+  {
+    "query": "toilet cleaner sale",
+    "popularity": 9651,
+    "landing_quality": 0.86,
+    "business_priority": 0.59
+  },
+  {
+    "query": "android tv discount",
+    "popularity": 4698,
+    "landing_quality": 0.31,
+    "business_priority": 0.74
+  },
+  {
+    "query": "lip balm combo",
+    "popularity": 8706,
+    "landing_quality": 0.58,
+    "business_priority": 0.55
+  },
+  {
+    "query": "gaming mouse buy",
+    "popularity": 4436,
+    "landing_quality": 0.29,
+    "business_priority": 0.27
+  },
+  {
+    "query": "hair dryer low price",
+    "popularity": 4174,
+    "landing_quality": 0.73,
+    "business_priority": 0.61
+  },
+  {
+    "query": "electric kettle online",
+    "popularity": 1388,
+    "landing_quality": 0.98,
+    "business_priority": 0.78
+  },
+  {
+    "query": "shaving kit 2025 edition",
+    "popularity": 3981,
+    "landing_quality": 0.1,
+    "business_priority": 0.39
+  },
+  {
+    "query": "face serum latest",
+    "popularity": 1790,
+    "landing_quality": 0.75,
+    "business_priority": 0.42
+  },
+  {
+    "query": "sling bag low price",
+    "popularity": 2387,
+    "landing_quality": 0.91,
+    "business_priority": 0.9
+  },
+  {
+    "query": "formal shoes pack",
+    "popularity": 3373,
+    "landing_quality": 1.0,
+    "business_priority": 0.63
+  },
+  {
+    "query": "vacuum cleaner buy",
+    "popularity": 8341,
+    "landing_quality": 0.22,
+    "business_priority": 1.0
+  },
+  {
+    "query": "flip flops discount",
+    "popularity": 1269,
+    "landing_quality": 0.35,
+    "business_priority": 0.68
+  },
+  {
+    "query": "nail polish 2025 edition",
+    "popularity": 1582,
+    "landing_quality": 0.45,
+    "business_priority": 0.71
+  },
+  {
+    "query": "backpack pack",
+    "popularity": 5654,
+    "landing_quality": 0.35,
+    "business_priority": 0.9
+  },
+  {
+    "query": "toothbrush 2025 edition",
+    "popularity": 1205,
+    "landing_quality": 0.49,
+    "business_priority": 0.77
+  },
+  {
+    "query": "power bank latest",
+    "popularity": 4503,
+    "landing_quality": 0.46,
+    "business_priority": 0.97
+  },
+  {
+    "query": "analog watch best offer",
+    "popularity": 5418,
+    "landing_quality": 0.38,
+    "business_priority": 0.54
+  },
+  {
+    "query": "smart tv low price",
+    "popularity": 8255,
+    "landing_quality": 0.1,
+    "business_priority": 0.38
+  },
+  {
+    "query": "sanitizer low price",
+    "popularity": 7933,
+    "landing_quality": 0.59,
+    "business_priority": 0.32
+  },
+  {
+    "query": "face mask online",
+    "popularity": 3996,
+    "landing_quality": 0.23,
+    "business_priority": 0.35
+  },
+  {
+    "query": "sports shoes buy",
+    "popularity": 9819,
+    "landing_quality": 0.73,
+    "business_priority": 0.33
+  },
+  {
+    "query": "sd card low price",
+    "popularity": 6371,
+    "landing_quality": 0.51,
+    "business_priority": 0.53
+  },
+  {
+    "query": "sd card buy",
+    "popularity": 6671,
+    "landing_quality": 0.34,
+    "business_priority": 0.22
+  },
+  {
+    "query": "wrist watch online",
+    "popularity": 3259,
+    "landing_quality": 0.65,
+    "business_priority": 0.96
+  },
+  {
+    "query": "sports shoes sale",
+    "popularity": 4917,
+    "landing_quality": 0.82,
+    "business_priority": 0.83
+  },
+  {
+    "query": "ceiling fan online",
+    "popularity": 7991,
+    "landing_quality": 0.85,
+    "business_priority": 0.5
+  },
+  {
+    "query": "mobile cover latest",
+    "popularity": 5732,
+    "landing_quality": 0.47,
+    "business_priority": 0.4
+  },
+  {
+    "query": "night cream 2025 edition",
+    "popularity": 7663,
+    "landing_quality": 0.82,
+    "business_priority": 0.71
+  },
+  {
+    "query": "microwave oven online",
+    "popularity": 3529,
+    "landing_quality": 0.2,
+    "business_priority": 0.32
+  },
+  {
+    "query": "dslr camera sale",
+    "popularity": 1448,
+    "landing_quality": 0.35,
+    "business_priority": 0.26
+  },
+  {
+    "query": "eye liner sale",
+    "popularity": 9264,
+    "landing_quality": 0.4,
+    "business_priority": 0.46
+  },
+  {
+    "query": "sanitizer online",
+    "popularity": 5312,
+    "landing_quality": 0.65,
+    "business_priority": 0.12
+  },
+  {
+    "query": "exercise bike discount",
+    "popularity": 9463,
+    "landing_quality": 0.39,
+    "business_priority": 0.19
+  },
+  {
+    "query": "hand bag low price",
+    "popularity": 7902,
+    "landing_quality": 0.44,
+    "business_priority": 1.0
+  },
+  {
+    "query": "room heater best offer",
+    "popularity": 1636,
+    "landing_quality": 0.28,
+    "business_priority": 0.31
+  },
+  {
+    "query": "yoga mat latest",
+    "popularity": 3143,
+    "landing_quality": 0.55,
+    "business_priority": 0.85
+  },
+  {
+    "query": "air conditioner sale",
+    "popularity": 2369,
+    "landing_quality": 0.59,
+    "business_priority": 0.64
+  },
+  {
+    "query": "macbook air pack",
+    "popularity": 5182,
+    "landing_quality": 0.91,
+    "business_priority": 0.18
+  },
+  {
+    "query": "sling bag discount",
+    "popularity": 1393,
+    "landing_quality": 0.31,
+    "business_priority": 0.19
+  },
+  {
+    "query": "exercise bike best offer",
+    "popularity": 111,
+    "landing_quality": 0.26,
+    "business_priority": 0.48
+  },
+  {
+    "query": "dslr camera discount",
+    "popularity": 766,
+    "landing_quality": 0.83,
+    "business_priority": 0.73
+  },
+  {
+    "query": "dumbbells best offer",
+    "popularity": 7090,
+    "landing_quality": 0.18,
+    "business_priority": 0.55
+  },
+  {
+    "query": "compact powder sale",
+    "popularity": 7284,
+    "landing_quality": 0.56,
+    "business_priority": 0.49
+  },
+  {
+    "query": "macbook pro discount",
+    "popularity": 6528,
+    "landing_quality": 0.16,
+    "business_priority": 0.47
+  },
+  {
+    "query": "wallet discount",
+    "popularity": 1867,
+    "landing_quality": 0.87,
+    "business_priority": 0.26
+  },
+  {
+    "query": "wrist watch best offer",
+    "popularity": 2171,
+    "landing_quality": 0.89,
+    "business_priority": 0.81
+  },
+  {
+    "query": "yoga mat pack",
+    "popularity": 5515,
+    "landing_quality": 0.77,
+    "business_priority": 0.4
+  },
+  {
+    "query": "wireless headphones online",
+    "popularity": 332,
+    "landing_quality": 0.14,
+    "business_priority": 0.59
+  },
+  {
+    "query": "toilet cleaner pack",
+    "popularity": 9742,
+    "landing_quality": 0.73,
+    "business_priority": 0.93
+  },
+  {
+    "query": "refrigerator discount",
+    "popularity": 7207,
+    "landing_quality": 0.28,
+    "business_priority": 0.74
+  },
+  {
+    "query": "tv remote 2025 edition",
+    "popularity": 8727,
+    "landing_quality": 0.27,
+    "business_priority": 0.34
+  },
+  {
+    "query": "smart watch online",
+    "popularity": 5317,
+    "landing_quality": 0.51,
+    "business_priority": 0.39
+  },
+  {
+    "query": "electric kettle pack",
+    "popularity": 4630,
+    "landing_quality": 0.36,
+    "business_priority": 0.58
+  },
+  {
+    "query": "toothpaste buy",
+    "popularity": 9972,
+    "landing_quality": 0.43,
+    "business_priority": 0.2
+  },
+  {
+    "query": "yoga mat discount",
+    "popularity": 4402,
+    "landing_quality": 0.26,
+    "business_priority": 0.96
+  },
+  {
+    "query": "laptop cooling pad 2025 edition",
+    "popularity": 7033,
+    "landing_quality": 0.66,
+    "business_priority": 0.86
+  },
+  {
+    "query": "samsung charger online",
+    "popularity": 2085,
+    "landing_quality": 0.16,
+    "business_priority": 0.48
+  },
+  {
+    "query": "refrigerator buy",
+    "popularity": 3119,
+    "landing_quality": 0.45,
+    "business_priority": 0.91
+  },
+  {
+    "query": "fitness band best offer",
+    "popularity": 5790,
+    "landing_quality": 0.55,
+    "business_priority": 0.25
+  },
+  {
+    "query": "tv wall mount latest",
+    "popularity": 7200,
+    "landing_quality": 0.61,
+    "business_priority": 0.2
+  },
+  {
+    "query": "toothbrush combo",
+    "popularity": 1166,
+    "landing_quality": 0.77,
+    "business_priority": 0.15
+  },
+  {
+    "query": "lip balm sale",
+    "popularity": 798,
+    "landing_quality": 0.76,
+    "business_priority": 0.6
+  },
+  {
+    "query": "protein powder latest",
+    "popularity": 649,
+    "landing_quality": 0.69,
+    "business_priority": 0.28
+  },
+  {
+    "query": "bluetooth speaker best offer",
+    "popularity": 5116,
+    "landing_quality": 0.63,
+    "business_priority": 0.45
+  },
+  {
+    "query": "badminton racket combo",
+    "popularity": 1533,
+    "landing_quality": 0.98,
+    "business_priority": 0.85
+  },
+  {
+    "query": "smart tv 2025 edition",
+    "popularity": 3948,
+    "landing_quality": 0.32,
+    "business_priority": 0.78
+  },
+  {
+    "query": "flip flops sale",
+    "popularity": 7426,
+    "landing_quality": 0.5,
+    "business_priority": 0.44
+  },
+  {
+    "query": "macbook air sale",
+    "popularity": 2462,
+    "landing_quality": 0.93,
+    "business_priority": 0.92
+  },
+  {
+    "query": "electric kettle online",
+    "popularity": 3272,
+    "landing_quality": 0.42,
+    "business_priority": 0.1
+  },
+  {
+    "query": "protein powder 2025 edition",
+    "popularity": 2375,
+    "landing_quality": 0.33,
+    "business_priority": 0.64
+  },
+  {
+    "query": "women's dress combo",
+    "popularity": 6062,
+    "landing_quality": 0.36,
+    "business_priority": 0.8
+  },
+  {
+    "query": "ceiling fan low price",
+    "popularity": 7568,
+    "landing_quality": 0.33,
+    "business_priority": 0.22
+  },
+  {
+    "query": "macbook air latest",
+    "popularity": 7150,
+    "landing_quality": 0.87,
+    "business_priority": 0.78
+  },
+  {
+    "query": "face mask latest",
+    "popularity": 5596,
+    "landing_quality": 0.8,
+    "business_priority": 0.52
+  },
+  {
+    "query": "body lotion best offer",
+    "popularity": 8788,
+    "landing_quality": 0.24,
+    "business_priority": 0.7
+  },
+  {
+    "query": "sling bag best offer",
+    "popularity": 1714,
+    "landing_quality": 0.51,
+    "business_priority": 0.54
+  },
+  {
+    "query": "night cream 2025 edition",
+    "popularity": 3894,
+    "landing_quality": 0.61,
+    "business_priority": 0.95
+  },
+  {
+    "query": "iphone case online",
+    "popularity": 8215,
+    "landing_quality": 0.43,
+    "business_priority": 0.19
+  },
+  {
+    "query": "wallet latest",
+    "popularity": 4129,
+    "landing_quality": 0.61,
+    "business_priority": 0.7
+  },
+  {
+    "query": "microwave oven discount",
+    "popularity": 1686,
+    "landing_quality": 0.32,
+    "business_priority": 0.35
+  },
+  {
+    "query": "mascara best offer",
+    "popularity": 2359,
+    "landing_quality": 0.8,
+    "business_priority": 0.76
+  },
+  {
+    "query": "led tv 2025 edition",
+    "popularity": 6849,
+    "landing_quality": 0.35,
+    "business_priority": 0.96
+  },
+  {
+    "query": "camera tripod buy",
+    "popularity": 8420,
+    "landing_quality": 0.32,
+    "business_priority": 1.0
+  },
+  {
+    "query": "room heater sale",
+    "popularity": 4637,
+    "landing_quality": 0.19,
+    "business_priority": 0.81
+  },
+  {
+    "query": "toilet cleaner discount",
+    "popularity": 5229,
+    "landing_quality": 0.32,
+    "business_priority": 0.63
+  },
+  {
+    "query": "women's dress best offer",
+    "popularity": 5759,
+    "landing_quality": 0.14,
+    "business_priority": 0.2
+  },
+  {
+    "query": "sanitizer best offer",
+    "popularity": 4917,
+    "landing_quality": 0.97,
+    "business_priority": 0.18
+  },
+  {
+    "query": "macbook charger low price",
+    "popularity": 6988,
+    "landing_quality": 0.37,
+    "business_priority": 0.37
+  },
+  {
+    "query": "gym gloves latest",
+    "popularity": 9771,
+    "landing_quality": 0.85,
+    "business_priority": 0.41
+  },
+  {
+    "query": "dumbbells low price",
+    "popularity": 4923,
+    "landing_quality": 0.54,
+    "business_priority": 0.21
+  },
+  {
+    "query": "yoga mat discount",
+    "popularity": 4237,
+    "landing_quality": 0.53,
+    "business_priority": 0.16
+  },
+  {
+    "query": "iphone 14 sale",
+    "popularity": 5019,
+    "landing_quality": 0.99,
+    "business_priority": 0.74
+  },
+  {
+    "query": "sling bag sale",
+    "popularity": 5253,
+    "landing_quality": 0.51,
+    "business_priority": 0.87
+  },
+  {
+    "query": "nail polish discount",
+    "popularity": 4997,
+    "landing_quality": 0.71,
+    "business_priority": 0.56
+  },
+  {
+    "query": "electric kettle latest",
+    "popularity": 343,
+    "landing_quality": 0.68,
+    "business_priority": 0.24
+  },
+  {
+    "query": "gaming mouse online",
+    "popularity": 3218,
+    "landing_quality": 0.6,
+    "business_priority": 0.4
+  },
+  {
+    "query": "badminton racket low price",
+    "popularity": 5376,
+    "landing_quality": 0.13,
+    "business_priority": 0.68
+  },
+  {
+    "query": "hand bag online",
+    "popularity": 6295,
+    "landing_quality": 0.59,
+    "business_priority": 0.24
+  },
+  {
+    "query": "led tv combo",
+    "popularity": 495,
+    "landing_quality": 0.87,
+    "business_priority": 0.88
+  },
+  {
+    "query": "washing machine combo",
+    "popularity": 3249,
+    "landing_quality": 0.45,
+    "business_priority": 0.13
+  },
+  {
+    "query": "sanitizer pack",
+    "popularity": 3727,
+    "landing_quality": 0.13,
+    "business_priority": 0.32
+  },
+  {
+    "query": "mirrorless camera sale",
+    "popularity": 9294,
+    "landing_quality": 0.55,
+    "business_priority": 0.27
+  },
+  {
+    "query": "samsung earbuds online",
+    "popularity": 5546,
+    "landing_quality": 0.81,
+    "business_priority": 0.48
+  },
+  {
+    "query": "iphone charger best offer",
+    "popularity": 9439,
+    "landing_quality": 0.11,
+    "business_priority": 0.24
+  },
+  {
+    "query": "cricket bat pack",
+    "popularity": 6357,
+    "landing_quality": 0.44,
+    "business_priority": 0.7
+  },
+  {
+    "query": "sd card combo",
+    "popularity": 9386,
+    "landing_quality": 0.51,
+    "business_priority": 0.36
+  },
+  {
+    "query": "washing machine best offer",
+    "popularity": 5693,
+    "landing_quality": 0.21,
+    "business_priority": 0.36
+  },
+  {
+    "query": "sports shoes best offer",
+    "popularity": 704,
+    "landing_quality": 0.71,
+    "business_priority": 0.82
+  },
+  {
+    "query": "digital watch best offer",
+    "popularity": 5845,
+    "landing_quality": 0.59,
+    "business_priority": 0.5
+  },
+  {
+    "query": "camera tripod latest",
+    "popularity": 3488,
+    "landing_quality": 0.78,
+    "business_priority": 0.82
+  },
+  {
+    "query": "iphone 14 buy",
+    "popularity": 5630,
+    "landing_quality": 0.36,
+    "business_priority": 0.99
+  },
+  {
+    "query": "wireless mouse online",
+    "popularity": 4158,
+    "landing_quality": 0.12,
+    "business_priority": 0.12
+  },
+  {
+    "query": "toothpaste combo",
+    "popularity": 8736,
+    "landing_quality": 0.16,
+    "business_priority": 0.94
+  },
+  {
+    "query": "water purifier pack",
+    "popularity": 3608,
+    "landing_quality": 0.15,
+    "business_priority": 0.71
+  },
+  {
+    "query": "samsung galaxy s21 buy",
+    "popularity": 4172,
+    "landing_quality": 0.42,
+    "business_priority": 0.69
+  },
+  {
+    "query": "bluetooth speaker discount",
+    "popularity": 1662,
+    "landing_quality": 0.92,
+    "business_priority": 0.98
+  },
+  {
+    "query": "usb c cable online",
+    "popularity": 7662,
+    "landing_quality": 0.92,
+    "business_priority": 0.49
+  },
+  {
+    "query": "laptop bag buy",
+    "popularity": 3140,
+    "landing_quality": 0.58,
+    "business_priority": 0.59
+  },
+  {
+    "query": "macbook charger buy",
+    "popularity": 3465,
+    "landing_quality": 0.87,
+    "business_priority": 0.98
+  },
+  {
+    "query": "dslr camera combo",
+    "popularity": 8916,
+    "landing_quality": 0.64,
+    "business_priority": 0.57
+  },
+  {
+    "query": "dslr camera sale",
+    "popularity": 6439,
+    "landing_quality": 0.82,
+    "business_priority": 0.45
+  },
+  {
+    "query": "mechanical keyboard latest",
+    "popularity": 5348,
+    "landing_quality": 0.75,
+    "business_priority": 0.74
+  },
+  {
+    "query": "treadmill latest",
+    "popularity": 9197,
+    "landing_quality": 0.12,
+    "business_priority": 0.87
+  },
+  {
+    "query": "mirrorless camera buy",
+    "popularity": 4715,
+    "landing_quality": 0.38,
+    "business_priority": 0.1
+  },
+  {
+    "query": "sling bag best offer",
+    "popularity": 5581,
+    "landing_quality": 0.13,
+    "business_priority": 0.25
+  },
+  {
+    "query": "flip flops discount",
+    "popularity": 8074,
+    "landing_quality": 0.11,
+    "business_priority": 0.1
+  },
+  {
+    "query": "kids wear latest",
+    "popularity": 557,
+    "landing_quality": 0.78,
+    "business_priority": 0.69
+  },
+  {
+    "query": "face mask low price",
+    "popularity": 8346,
+    "landing_quality": 0.7,
+    "business_priority": 0.6
+  },
+  {
+    "query": "smart watch combo",
+    "popularity": 900,
+    "landing_quality": 0.33,
+    "business_priority": 0.79
+  },
+  {
+    "query": "dslr camera buy",
+    "popularity": 8347,
+    "landing_quality": 0.42,
+    "business_priority": 0.39
+  },
+  {
+    "query": "shaving kit pack",
+    "popularity": 2442,
+    "landing_quality": 0.97,
+    "business_priority": 0.89
+  },
+  {
+    "query": "laptop stand online",
+    "popularity": 6392,
+    "landing_quality": 0.95,
+    "business_priority": 0.19
+  },
+  {
+    "query": "air conditioner buy",
+    "popularity": 3934,
+    "landing_quality": 0.42,
+    "business_priority": 0.21
+  },
+  {
+    "query": "yoga mat online",
+    "popularity": 4595,
+    "landing_quality": 0.82,
+    "business_priority": 0.44
+  },
+  {
+    "query": "toothbrush low price",
+    "popularity": 5884,
+    "landing_quality": 0.58,
+    "business_priority": 0.3
+  },
+  {
+    "query": "induction cooktop 2025 edition",
+    "popularity": 4411,
+    "landing_quality": 0.87,
+    "business_priority": 0.67
+  },
+  {
+    "query": "hair dryer online",
+    "popularity": 8358,
+    "landing_quality": 0.15,
+    "business_priority": 0.79
+  },
+  {
+    "query": "face wash pack",
+    "popularity": 9304,
+    "landing_quality": 0.67,
+    "business_priority": 0.43
+  },
+  {
+    "query": "body lotion best offer",
+    "popularity": 3101,
+    "landing_quality": 0.75,
+    "business_priority": 0.27
+  },
+  {
+    "query": "dishwasher best offer",
+    "popularity": 3990,
+    "landing_quality": 0.81,
+    "business_priority": 0.43
+  },
+  {
+    "query": "usb c cable 2025 edition",
+    "popularity": 4023,
+    "landing_quality": 0.94,
+    "business_priority": 0.21
+  },
+  {
+    "query": "exercise bike discount",
+    "popularity": 7031,
+    "landing_quality": 0.29,
+    "business_priority": 0.7
+  },
+  {
+    "query": "casual shoes latest",
+    "popularity": 1878,
+    "landing_quality": 0.52,
+    "business_priority": 0.49
+  },
+  {
+    "query": "laptop stand online",
+    "popularity": 4969,
+    "landing_quality": 0.54,
+    "business_priority": 0.19
+  },
+  {
+    "query": "night cream best offer",
+    "popularity": 4195,
+    "landing_quality": 0.11,
+    "business_priority": 0.77
+  },
+  {
+    "query": "floor cleaner discount",
+    "popularity": 7241,
+    "landing_quality": 0.54,
+    "business_priority": 0.72
+  },
+  {
+    "query": "bluetooth speaker combo",
+    "popularity": 7164,
+    "landing_quality": 0.78,
+    "business_priority": 0.75
+  },
+  {
+    "query": "washing machine latest",
+    "popularity": 3779,
+    "landing_quality": 0.63,
+    "business_priority": 0.98
+  },
+  {
+    "query": "football online",
+    "popularity": 8053,
+    "landing_quality": 0.53,
+    "business_priority": 0.41
+  },
+  {
+    "query": "samsung charger discount",
+    "popularity": 8667,
+    "landing_quality": 0.12,
+    "business_priority": 0.57
+  },
+  {
+    "query": "badminton racket best offer",
+    "popularity": 8267,
+    "landing_quality": 0.82,
+    "business_priority": 0.94
+  },
+  {
+    "query": "digital watch 2025 edition",
+    "popularity": 9363,
+    "landing_quality": 0.8,
+    "business_priority": 0.64
+  },
+  {
+    "query": "mirrorless camera buy",
+    "popularity": 5190,
+    "landing_quality": 0.75,
+    "business_priority": 0.99
+  },
+  {
+    "query": "water purifier buy",
+    "popularity": 4176,
+    "landing_quality": 0.55,
+    "business_priority": 1.0
+  },
+  {
+    "query": "trimmer sale",
+    "popularity": 3137,
+    "landing_quality": 0.14,
+    "business_priority": 0.81
+  },
+  {
+    "query": "electric kettle pack",
+    "popularity": 1982,
+    "landing_quality": 0.33,
+    "business_priority": 0.14
+  },
+  {
+    "query": "casual shoes latest",
+    "popularity": 3653,
+    "landing_quality": 0.25,
+    "business_priority": 0.12
+  },
+  {
+    "query": "school bag 2025 edition",
+    "popularity": 4427,
+    "landing_quality": 0.96,
+    "business_priority": 0.73
+  },
+  {
+    "query": "toothpaste buy",
+    "popularity": 2993,
+    "landing_quality": 0.96,
+    "business_priority": 0.82
+  },
+  {
+    "query": "flip flops best offer",
+    "popularity": 4787,
+    "landing_quality": 0.93,
+    "business_priority": 0.48
+  },
+  {
+    "query": "induction cooktop latest",
+    "popularity": 3624,
+    "landing_quality": 0.77,
+    "business_priority": 0.63
+  },
+  {
+    "query": "macbook charger combo",
+    "popularity": 5568,
+    "landing_quality": 0.46,
+    "business_priority": 0.3
+  },
+  {
+    "query": "toothpaste 2025 edition",
+    "popularity": 7288,
+    "landing_quality": 0.17,
+    "business_priority": 0.44
+  },
+  {
+    "query": "wireless headphones combo",
+    "popularity": 5393,
+    "landing_quality": 0.71,
+    "business_priority": 0.52
+  },
+  {
+    "query": "kids wear latest",
+    "popularity": 4472,
+    "landing_quality": 0.46,
+    "business_priority": 0.38
+  },
+  {
+    "query": "treadmill online",
+    "popularity": 7424,
+    "landing_quality": 0.27,
+    "business_priority": 0.45
+  },
+  {
+    "query": "dishwasher pack",
+    "popularity": 7653,
+    "landing_quality": 0.58,
+    "business_priority": 0.9
+  },
+  {
+    "query": "gas stove sale",
+    "popularity": 6658,
+    "landing_quality": 0.96,
+    "business_priority": 0.9
+  },
+  {
+    "query": "gaming mouse online",
+    "popularity": 5001,
+    "landing_quality": 0.92,
+    "business_priority": 0.58
+  },
+  {
+    "query": "mobile cover discount",
+    "popularity": 8522,
+    "landing_quality": 0.41,
+    "business_priority": 0.5
+  },
+  {
+    "query": "backpack best offer",
+    "popularity": 2267,
+    "landing_quality": 0.66,
+    "business_priority": 0.62
+  },
+  {
+    "query": "ceiling fan pack",
+    "popularity": 8236,
+    "landing_quality": 0.84,
+    "business_priority": 0.85
+  },
+  {
+    "query": "running shoes best offer",
+    "popularity": 2674,
+    "landing_quality": 0.56,
+    "business_priority": 0.34
+  },
+  {
+    "query": "laptop cooling pad latest",
+    "popularity": 6867,
+    "landing_quality": 0.49,
+    "business_priority": 0.77
+  },
+  {
+    "query": "android tv buy",
+    "popularity": 4769,
+    "landing_quality": 0.11,
+    "business_priority": 0.11
+  },
+  {
+    "query": "flip flops best offer",
+    "popularity": 5199,
+    "landing_quality": 0.43,
+    "business_priority": 0.63
+  },
+  {
+    "query": "washing machine online",
+    "popularity": 9990,
+    "landing_quality": 0.2,
+    "business_priority": 0.72
+  },
+  {
+    "query": "samsung galaxy s21 online",
+    "popularity": 4852,
+    "landing_quality": 0.8,
+    "business_priority": 0.42
+  },
+  {
+    "query": "casual shoes online",
+    "popularity": 7437,
+    "landing_quality": 0.23,
+    "business_priority": 0.36
+  },
+  {
+    "query": "casual shoes low price",
+    "popularity": 3982,
+    "landing_quality": 0.27,
+    "business_priority": 0.13
+  },
+  {
+    "query": "wireless mouse sale",
+    "popularity": 2441,
+    "landing_quality": 0.9,
+    "business_priority": 0.48
+  },
+  {
+    "query": "face wash 2025 edition",
+    "popularity": 5600,
+    "landing_quality": 0.98,
+    "business_priority": 0.76
+  },
+  {
+    "query": "yoga mat latest",
+    "popularity": 2945,
+    "landing_quality": 0.64,
+    "business_priority": 0.5
+  },
+  {
+    "query": "night cream latest",
+    "popularity": 4760,
+    "landing_quality": 0.31,
+    "business_priority": 0.39
+  },
+  {
+    "query": "washing machine low price",
+    "popularity": 3541,
+    "landing_quality": 0.8,
+    "business_priority": 0.18
+  },
+  {
+    "query": "laptop stand buy",
+    "popularity": 700,
+    "landing_quality": 0.37,
+    "business_priority": 0.95
+  },
+  {
+    "query": "smart watch pack",
+    "popularity": 4610,
+    "landing_quality": 0.49,
+    "business_priority": 0.15
+  },
+  {
+    "query": "toilet cleaner latest",
+    "popularity": 8235,
+    "landing_quality": 0.37,
+    "business_priority": 0.29
+  },
+  {
+    "query": "compact powder discount",
+    "popularity": 456,
+    "landing_quality": 0.55,
+    "business_priority": 0.74
+  },
+  {
+    "query": "shaving kit latest",
+    "popularity": 9666,
+    "landing_quality": 0.53,
+    "business_priority": 0.55
+  },
+  {
+    "query": "floor cleaner sale",
+    "popularity": 2601,
+    "landing_quality": 0.93,
+    "business_priority": 0.27
+  },
+  {
+    "query": "formal shoes best offer",
+    "popularity": 8362,
+    "landing_quality": 0.52,
+    "business_priority": 0.73
+  },
+  {
+    "query": "exercise bike best offer",
+    "popularity": 6182,
+    "landing_quality": 0.77,
+    "business_priority": 0.7
+  },
+  {
+    "query": "android tv best offer",
+    "popularity": 925,
+    "landing_quality": 0.32,
+    "business_priority": 0.12
+  },
+  {
+    "query": "iphone 13 best offer",
+    "popularity": 775,
+    "landing_quality": 0.35,
+    "business_priority": 0.54
+  },
+  {
+    "query": "mirrorless camera 2025 edition",
+    "popularity": 1013,
+    "landing_quality": 0.71,
+    "business_priority": 0.63
+  },
+  {
+    "query": "flip flops 2025 edition",
+    "popularity": 9757,
+    "landing_quality": 0.37,
+    "business_priority": 0.68
+  },
+  {
+    "query": "nail polish sale",
+    "popularity": 6017,
+    "landing_quality": 0.29,
+    "business_priority": 0.99
+  },
+  {
+    "query": "mobile cover combo",
+    "popularity": 9241,
+    "landing_quality": 0.62,
+    "business_priority": 0.3
+  },
+  {
+    "query": "wireless headphones best offer",
+    "popularity": 7942,
+    "landing_quality": 0.88,
+    "business_priority": 0.96
+  },
+  {
+    "query": "sunscreen latest",
+    "popularity": 6246,
+    "landing_quality": 0.77,
+    "business_priority": 0.25
+  },
+  {
+    "query": "face mask 2025 edition",
+    "popularity": 320,
+    "landing_quality": 0.42,
+    "business_priority": 0.63
+  },
+  {
+    "query": "microwave oven online",
+    "popularity": 3283,
+    "landing_quality": 0.15,
+    "business_priority": 0.42
+  },
+  {
+    "query": "samsung earbuds low price",
+    "popularity": 7095,
+    "landing_quality": 0.84,
+    "business_priority": 0.98
+  },
+  {
+    "query": "microwave oven 2025 edition",
+    "popularity": 2922,
+    "landing_quality": 0.89,
+    "business_priority": 0.83
+  },
+  {
+    "query": "vacuum cleaner best offer",
+    "popularity": 6542,
+    "landing_quality": 0.6,
+    "business_priority": 0.44
+  },
+  {
+    "query": "samsung charger discount",
+    "popularity": 318,
+    "landing_quality": 0.44,
+    "business_priority": 0.14
+  },
+  {
+    "query": "sling bag buy",
+    "popularity": 9980,
+    "landing_quality": 0.61,
+    "business_priority": 0.49
+  },
+  {
+    "query": "eye liner latest",
+    "popularity": 295,
+    "landing_quality": 0.83,
+    "business_priority": 0.92
+  },
+  {
+    "query": "analog watch best offer",
+    "popularity": 8172,
+    "landing_quality": 0.99,
+    "business_priority": 0.16
+  },
+  {
+    "query": "led tv combo",
+    "popularity": 2910,
+    "landing_quality": 0.31,
+    "business_priority": 0.57
+  },
+  {
+    "query": "lip balm pack",
+    "popularity": 7728,
+    "landing_quality": 0.7,
+    "business_priority": 0.55
+  },
+  {
+    "query": "yoga mat buy",
+    "popularity": 5453,
+    "landing_quality": 0.22,
+    "business_priority": 0.86
+  },
+  {
+    "query": "iphone 13 online",
+    "popularity": 1423,
+    "landing_quality": 0.75,
+    "business_priority": 0.35
+  },
+  {
+    "query": "nail polish latest",
+    "popularity": 2242,
+    "landing_quality": 1.0,
+    "business_priority": 0.74
+  },
+  {
+    "query": "mobile cover best offer",
+    "popularity": 9148,
+    "landing_quality": 0.84,
+    "business_priority": 0.31
+  },
+  {
+    "query": "toothbrush 2025 edition",
+    "popularity": 3450,
+    "landing_quality": 0.47,
+    "business_priority": 0.65
+  },
+  {
+    "query": "kids wear discount",
+    "popularity": 4471,
+    "landing_quality": 0.69,
+    "business_priority": 0.22
+  },
+  {
+    "query": "compact powder latest",
+    "popularity": 4565,
+    "landing_quality": 0.24,
+    "business_priority": 0.16
+  },
+  {
+    "query": "gaming mouse combo",
+    "popularity": 4726,
+    "landing_quality": 0.89,
+    "business_priority": 0.39
+  },
+  {
+    "query": "dishwasher combo",
+    "popularity": 6395,
+    "landing_quality": 0.45,
+    "business_priority": 0.11
+  },
+  {
+    "query": "mechanical keyboard pack",
+    "popularity": 583,
+    "landing_quality": 0.55,
+    "business_priority": 0.78
+  },
+  {
+    "query": "laptop bag best offer",
+    "popularity": 1641,
+    "landing_quality": 0.15,
+    "business_priority": 0.97
+  },
+  {
+    "query": "samsung charger pack",
+    "popularity": 6764,
+    "landing_quality": 0.46,
+    "business_priority": 0.18
+  },
+  {
+    "query": "iphone case best offer",
+    "popularity": 675,
+    "landing_quality": 0.94,
+    "business_priority": 0.13
+  },
+  {
+    "query": "hair dryer combo",
+    "popularity": 1910,
+    "landing_quality": 0.14,
+    "business_priority": 0.89
+  },
+  {
+    "query": "sunscreen latest",
+    "popularity": 2675,
+    "landing_quality": 0.51,
+    "business_priority": 0.52
+  },
+  {
+    "query": "refrigerator best offer",
+    "popularity": 1997,
+    "landing_quality": 0.83,
+    "business_priority": 0.78
+  },
+  {
+    "query": "shaving kit buy",
+    "popularity": 6487,
+    "landing_quality": 0.22,
+    "business_priority": 0.21
+  },
+  {
+    "query": "body lotion sale",
+    "popularity": 2111,
+    "landing_quality": 0.7,
+    "business_priority": 0.49
+  },
+  {
+    "query": "kids wear best offer",
+    "popularity": 7076,
+    "landing_quality": 0.68,
+    "business_priority": 0.63
+  },
+  {
+    "query": "exercise bike combo",
+    "popularity": 3154,
+    "landing_quality": 0.47,
+    "business_priority": 0.27
+  },
+  {
+    "query": "iphone charger low price",
+    "popularity": 1097,
+    "landing_quality": 0.75,
+    "business_priority": 0.13
+  },
+  {
+    "query": "dslr camera discount",
+    "popularity": 9862,
+    "landing_quality": 0.48,
+    "business_priority": 0.55
+  },
+  {
+    "query": "dumbbells sale",
+    "popularity": 3718,
+    "landing_quality": 0.26,
+    "business_priority": 0.9
+  },
+  {
+    "query": "android tv latest",
+    "popularity": 9669,
+    "landing_quality": 0.62,
+    "business_priority": 0.69
+  },
+  {
+    "query": "casual shoes 2025 edition",
+    "popularity": 3721,
+    "landing_quality": 0.27,
+    "business_priority": 0.7
+  },
+  {
+    "query": "sports shoes sale",
+    "popularity": 9611,
+    "landing_quality": 0.97,
+    "business_priority": 0.69
+  },
+  {
+    "query": "microwave oven low price",
+    "popularity": 3312,
+    "landing_quality": 0.35,
+    "business_priority": 0.46
+  },
+  {
+    "query": "treadmill discount",
+    "popularity": 1076,
+    "landing_quality": 0.74,
+    "business_priority": 0.56
+  },
+  {
+    "query": "treadmill sale",
+    "popularity": 2621,
+    "landing_quality": 0.83,
+    "business_priority": 0.99
+  },
+  {
+    "query": "trolley bag best offer",
+    "popularity": 6352,
+    "landing_quality": 0.85,
+    "business_priority": 0.65
+  },
+  {
+    "query": "samsung charger pack",
+    "popularity": 4295,
+    "landing_quality": 0.99,
+    "business_priority": 0.38
+  },
+  {
+    "query": "gaming mouse combo",
+    "popularity": 233,
+    "landing_quality": 0.79,
+    "business_priority": 0.29
+  },
+  {
+    "query": "android tv discount",
+    "popularity": 8267,
+    "landing_quality": 0.15,
+    "business_priority": 0.86
+  },
+  {
+    "query": "face wash buy",
+    "popularity": 9424,
+    "landing_quality": 0.11,
+    "business_priority": 0.3
+  },
+  {
+    "query": "iphone 14 best offer",
+    "popularity": 1317,
+    "landing_quality": 0.98,
+    "business_priority": 0.61
+  },
+  {
+    "query": "mirrorless camera 2025 edition",
+    "popularity": 7559,
+    "landing_quality": 0.82,
+    "business_priority": 0.61
+  },
+  {
+    "query": "school bag 2025 edition",
+    "popularity": 7539,
+    "landing_quality": 0.77,
+    "business_priority": 0.73
+  },
+  {
+    "query": "treadmill discount",
+    "popularity": 1063,
+    "landing_quality": 0.44,
+    "business_priority": 0.35
+  },
+  {
+    "query": "toothbrush online",
+    "popularity": 1842,
+    "landing_quality": 0.3,
+    "business_priority": 0.18
+  },
+  {
+    "query": "wrist watch buy",
+    "popularity": 4038,
+    "landing_quality": 0.15,
+    "business_priority": 0.95
+  },
+  {
+    "query": "toothbrush sale",
+    "popularity": 3713,
+    "landing_quality": 0.26,
+    "business_priority": 0.62
+  },
+  {
+    "query": "mobile cover latest",
+    "popularity": 5788,
+    "landing_quality": 0.58,
+    "business_priority": 0.39
+  },
+  {
+    "query": "macbook charger combo",
+    "popularity": 304,
+    "landing_quality": 0.78,
+    "business_priority": 0.53
+  },
+  {
+    "query": "school bag online",
+    "popularity": 7237,
+    "landing_quality": 0.47,
+    "business_priority": 0.13
+  },
+  {
+    "query": "dishwasher pack",
+    "popularity": 4993,
+    "landing_quality": 0.23,
+    "business_priority": 0.4
+  },
+  {
+    "query": "samsung galaxy s21 combo",
+    "popularity": 205,
+    "landing_quality": 0.52,
+    "business_priority": 0.33
+  },
+  {
+    "query": "body lotion combo",
+    "popularity": 5934,
+    "landing_quality": 0.38,
+    "business_priority": 0.19
+  },
+  {
+    "query": "football 2025 edition",
+    "popularity": 8994,
+    "landing_quality": 0.82,
+    "business_priority": 0.6
+  },
+  {
+    "query": "mechanical keyboard buy",
+    "popularity": 1626,
+    "landing_quality": 0.92,
+    "business_priority": 0.59
+  },
+  {
+    "query": "lip balm 2025 edition",
+    "popularity": 8480,
+    "landing_quality": 0.13,
+    "business_priority": 0.13
+  },
+  {
+    "query": "toilet cleaner combo",
+    "popularity": 4630,
+    "landing_quality": 0.11,
+    "business_priority": 0.37
+  },
+  {
+    "query": "analog watch best offer",
+    "popularity": 4848,
+    "landing_quality": 0.92,
+    "business_priority": 0.78
+  },
+  {
+    "query": "nail polish 2025 edition",
+    "popularity": 5646,
+    "landing_quality": 0.48,
+    "business_priority": 0.32
+  },
+  {
+    "query": "ceiling fan buy",
+    "popularity": 2319,
+    "landing_quality": 0.17,
+    "business_priority": 0.58
+  },
+  {
+    "query": "ceiling fan discount",
+    "popularity": 1455,
+    "landing_quality": 0.63,
+    "business_priority": 0.8
+  },
+  {
+    "query": "yoga mat pack",
+    "popularity": 9925,
+    "landing_quality": 0.66,
+    "business_priority": 0.81
+  },
+  {
+    "query": "protein powder low price",
+    "popularity": 7099,
+    "landing_quality": 0.39,
+    "business_priority": 0.97
+  },
+  {
+    "query": "gym gloves pack",
+    "popularity": 5605,
+    "landing_quality": 0.3,
+    "business_priority": 0.77
+  },
+  {
+    "query": "sports shoes online",
+    "popularity": 2340,
+    "landing_quality": 0.39,
+    "business_priority": 0.89
+  },
+  {
+    "query": "macbook air online",
+    "popularity": 6575,
+    "landing_quality": 0.14,
+    "business_priority": 0.52
+  },
+  {
+    "query": "smart tv latest",
+    "popularity": 9370,
+    "landing_quality": 0.79,
+    "business_priority": 0.81
+  },
+  {
+    "query": "air conditioner online",
+    "popularity": 8091,
+    "landing_quality": 0.83,
+    "business_priority": 0.92
+  },
+  {
+    "query": "toothbrush pack",
+    "popularity": 9080,
+    "landing_quality": 0.52,
+    "business_priority": 0.29
+  },
+  {
+    "query": "iphone case online",
+    "popularity": 7728,
+    "landing_quality": 0.18,
+    "business_priority": 0.76
+  },
+  {
+    "query": "protein powder low price",
+    "popularity": 8109,
+    "landing_quality": 0.9,
+    "business_priority": 0.19
+  },
+  {
+    "query": "wallet best offer",
+    "popularity": 3187,
+    "landing_quality": 0.39,
+    "business_priority": 0.78
+  },
+  {
+    "query": "school bag online",
+    "popularity": 139,
+    "landing_quality": 0.95,
+    "business_priority": 0.76
+  },
+  {
+    "query": "sd card best offer",
+    "popularity": 5986,
+    "landing_quality": 0.98,
+    "business_priority": 0.11
+  },
+  {
+    "query": "detergent best offer",
+    "popularity": 1704,
+    "landing_quality": 0.73,
+    "business_priority": 0.32
+  },
+  {
+    "query": "mascara combo",
+    "popularity": 9143,
+    "landing_quality": 0.55,
+    "business_priority": 0.92
+  },
+  {
+    "query": "wrist watch best offer",
+    "popularity": 2496,
+    "landing_quality": 0.5,
+    "business_priority": 0.65
+  },
+  {
+    "query": "toothpaste combo",
+    "popularity": 7474,
+    "landing_quality": 0.84,
+    "business_priority": 0.45
+  },
+  {
+    "query": "foundation buy",
+    "popularity": 1634,
+    "landing_quality": 0.3,
+    "business_priority": 0.59
+  },
+  {
+    "query": "badminton racket buy",
+    "popularity": 342,
+    "landing_quality": 0.3,
+    "business_priority": 0.85
+  },
+  {
+    "query": "toothpaste sale",
+    "popularity": 4626,
+    "landing_quality": 0.98,
+    "business_priority": 0.85
+  },
+  {
+    "query": "backpack sale",
+    "popularity": 7311,
+    "landing_quality": 0.54,
+    "business_priority": 0.86
+  },
+  {
+    "query": "laptop bag combo",
+    "popularity": 3172,
+    "landing_quality": 0.18,
+    "business_priority": 0.46
+  },
+  {
+    "query": "cricket bat 2025 edition",
+    "popularity": 4028,
+    "landing_quality": 0.2,
+    "business_priority": 0.58
+  },
+  {
+    "query": "gym gloves discount",
+    "popularity": 3526,
+    "landing_quality": 0.21,
+    "business_priority": 0.74
+  },
+  {
+    "query": "macbook charger 2025 edition",
+    "popularity": 9652,
+    "landing_quality": 0.37,
+    "business_priority": 0.7
+  },
+  {
+    "query": "electric kettle low price",
+    "popularity": 7208,
+    "landing_quality": 0.99,
+    "business_priority": 0.97
+  },
+  {
+    "query": "mascara discount",
+    "popularity": 7613,
+    "landing_quality": 0.18,
+    "business_priority": 0.32
+  },
+  {
+    "query": "room heater online",
+    "popularity": 6557,
+    "landing_quality": 0.35,
+    "business_priority": 0.36
+  },
+  {
+    "query": "led tv combo",
+    "popularity": 4158,
+    "landing_quality": 0.48,
+    "business_priority": 0.58
+  },
+  {
+    "query": "gym gloves 2025 edition",
+    "popularity": 6182,
+    "landing_quality": 0.52,
+    "business_priority": 0.46
+  },
+  {
+    "query": "dishwasher 2025 edition",
+    "popularity": 5065,
+    "landing_quality": 0.96,
+    "business_priority": 0.64
+  },
+  {
+    "query": "wireless headphones discount",
+    "popularity": 3752,
+    "landing_quality": 0.33,
+    "business_priority": 0.94
+  },
+  {
+    "query": "toothbrush discount",
+    "popularity": 5090,
+    "landing_quality": 0.51,
+    "business_priority": 0.25
+  },
+  {
+    "query": "face mask best offer",
+    "popularity": 5180,
+    "landing_quality": 0.54,
+    "business_priority": 0.57
+  },
+  {
+    "query": "basketball shoes low price",
+    "popularity": 2318,
+    "landing_quality": 0.18,
+    "business_priority": 0.35
+  },
+  {
+    "query": "foundation best offer",
+    "popularity": 1328,
+    "landing_quality": 0.29,
+    "business_priority": 0.88
+  },
+  {
+    "query": "mechanical keyboard pack",
+    "popularity": 9793,
+    "landing_quality": 0.2,
+    "business_priority": 0.95
+  },
+  {
+    "query": "samsung charger online",
+    "popularity": 493,
+    "landing_quality": 0.4,
+    "business_priority": 0.49
+  },
+  {
+    "query": "mascara pack",
+    "popularity": 6174,
+    "landing_quality": 0.36,
+    "business_priority": 0.36
+  },
+  {
+    "query": "room heater low price",
+    "popularity": 2116,
+    "landing_quality": 0.25,
+    "business_priority": 0.91
+  },
+  {
+    "query": "laptop cooling pad sale",
+    "popularity": 1007,
+    "landing_quality": 0.51,
+    "business_priority": 0.79
+  },
+  {
+    "query": "sd card pack",
+    "popularity": 4321,
+    "landing_quality": 0.1,
+    "business_priority": 0.12
+  },
+  {
+    "query": "dslr camera combo",
+    "popularity": 9849,
+    "landing_quality": 0.83,
+    "business_priority": 0.35
+  },
+  {
+    "query": "floor cleaner low price",
+    "popularity": 9525,
+    "landing_quality": 0.97,
+    "business_priority": 0.11
+  },
+  {
+    "query": "compact powder buy",
+    "popularity": 9008,
+    "landing_quality": 0.24,
+    "business_priority": 0.86
+  },
+  {
+    "query": "trolley bag 2025 edition",
+    "popularity": 8905,
+    "landing_quality": 0.67,
+    "business_priority": 0.77
+  },
+  {
+    "query": "wallet pack",
+    "popularity": 8493,
+    "landing_quality": 0.52,
+    "business_priority": 0.48
+  },
+  {
+    "query": "laptop bag 2025 edition",
+    "popularity": 1625,
+    "landing_quality": 0.77,
+    "business_priority": 0.15
+  },
+  {
+    "query": "smart tv low price",
+    "popularity": 9163,
+    "landing_quality": 0.7,
+    "business_priority": 0.41
+  },
+  {
+    "query": "air conditioner combo",
+    "popularity": 6115,
+    "landing_quality": 0.88,
+    "business_priority": 0.5
+  },
+  {
+    "query": "lip balm combo",
+    "popularity": 9012,
+    "landing_quality": 0.22,
+    "business_priority": 0.49
+  },
+  {
+    "query": "wrist watch 2025 edition",
+    "popularity": 8693,
+    "landing_quality": 0.48,
+    "business_priority": 0.87
+  },
+  {
+    "query": "sports shoes pack",
+    "popularity": 6277,
+    "landing_quality": 0.98,
+    "business_priority": 0.25
+  },
+  {
+    "query": "detergent combo",
+    "popularity": 1395,
+    "landing_quality": 0.13,
+    "business_priority": 0.54
+  },
+  {
+    "query": "toilet cleaner best offer",
+    "popularity": 5665,
+    "landing_quality": 0.19,
+    "business_priority": 0.98
+  },
+  {
+    "query": "laptop bag 2025 edition",
+    "popularity": 1648,
+    "landing_quality": 0.57,
+    "business_priority": 0.99
+  },
+  {
+    "query": "night cream pack",
+    "popularity": 7390,
+    "landing_quality": 0.68,
+    "business_priority": 0.36
+  },
+  {
+    "query": "samsung earbuds discount",
+    "popularity": 5008,
+    "landing_quality": 0.83,
+    "business_priority": 0.16
+  },
+  {
+    "query": "led tv low price",
+    "popularity": 4439,
+    "landing_quality": 0.18,
+    "business_priority": 0.91
+  },
+  {
+    "query": "bluetooth speaker sale",
+    "popularity": 4733,
+    "landing_quality": 0.17,
+    "business_priority": 0.93
+  },
+  {
+    "query": "mascara latest",
+    "popularity": 3476,
+    "landing_quality": 0.92,
+    "business_priority": 0.28
+  },
+  {
+    "query": "macbook case low price",
+    "popularity": 7484,
+    "landing_quality": 0.14,
+    "business_priority": 0.8
+  },
+  {
+    "query": "smartphone online",
+    "category": "electronics",
+    "popularity": 3067,
+    "landing_quality": 0.88,
+    "business_priority": 0.61
+  },
+  {
+    "query": "smartphone discount",
+    "category": "electronics",
+    "popularity": 3306,
+    "landing_quality": 0.44,
+    "business_priority": 0.55
+  },
+  {
+    "query": "smartphone discount",
+    "category": "electronics",
+    "popularity": 861,
+    "landing_quality": 0.42,
+    "business_priority": 0.86
+  },
+  {
+    "query": "tablet low price",
+    "category": "electronics",
+    "popularity": 2826,
+    "landing_quality": 0.36,
+    "business_priority": 0.11
+  },
+  {
+    "query": "tablet sale",
+    "category": "electronics",
+    "popularity": 2368,
+    "landing_quality": 0.88,
+    "business_priority": 0.53
+  },
+  {
+    "query": "tablet latest",
+    "category": "electronics",
+    "popularity": 3297,
+    "landing_quality": 0.97,
+    "business_priority": 0.21
+  },
+  {
+    "query": "smartwatch discount",
+    "category": "electronics",
+    "popularity": 4672,
+    "landing_quality": 0.47,
+    "business_priority": 0.25
+  },
+  {
+    "query": "smartwatch latest",
+    "category": "electronics",
+    "popularity": 8653,
+    "landing_quality": 0.57,
+    "business_priority": 0.65
+  },
+  {
+    "query": "smartwatch sale",
+    "category": "electronics",
+    "popularity": 9617,
+    "landing_quality": 0.52,
+    "business_priority": 0.87
+  },
+  {
+    "query": "gaming laptop 2025 edition",
+    "category": "electronics",
+    "popularity": 4604,
+    "landing_quality": 0.76,
+    "business_priority": 0.93
+  },
+  {
+    "query": "gaming laptop low price",
+    "category": "electronics",
+    "popularity": 8745,
+    "landing_quality": 0.78,
+    "business_priority": 0.14
+  },
+  {
+    "query": "gaming laptop buy online",
+    "category": "electronics",
+    "popularity": 4619,
+    "landing_quality": 0.93,
+    "business_priority": 0.66
+  },
+  {
+    "query": "earbuds best offer",
+    "category": "electronics",
+    "popularity": 7906,
+    "landing_quality": 0.41,
+    "business_priority": 0.75
+  },
+  {
+    "query": "earbuds low price",
+    "category": "electronics",
+    "popularity": 2933,
+    "landing_quality": 0.55,
+    "business_priority": 0.88
+  },
+  {
+    "query": "earbuds online",
+    "category": "electronics",
+    "popularity": 9827,
+    "landing_quality": 0.62,
+    "business_priority": 0.71
+  },
+  {
+    "query": "bluetooth speaker sale",
+    "category": "electronics",
+    "popularity": 1919,
+    "landing_quality": 0.52,
+    "business_priority": 0.25
+  },
+  {
+    "query": "bluetooth speaker sale",
+    "category": "electronics",
+    "popularity": 5829,
+    "landing_quality": 0.97,
+    "business_priority": 0.82
+  },
+  {
+    "query": "bluetooth speaker discount",
+    "category": "electronics",
+    "popularity": 6147,
+    "landing_quality": 0.98,
+    "business_priority": 0.55
+  },
+  {
+    "query": "air fryer discount",
+    "category": "home_kitchen",
+    "popularity": 2009,
+    "landing_quality": 0.88,
+    "business_priority": 0.63
+  },
+  {
+    "query": "air fryer online",
+    "category": "home_kitchen",
+    "popularity": 6060,
+    "landing_quality": 0.71,
+    "business_priority": 0.13
+  },
+  {
+    "query": "air fryer online",
+    "category": "home_kitchen",
+    "popularity": 9302,
+    "landing_quality": 0.69,
+    "business_priority": 0.29
+  },
+  {
+    "query": "buy water purifier online",
+    "category": "home_kitchen",
+    "popularity": 789,
+    "landing_quality": 0.65,
+    "business_priority": 0.54
+  },
+  {
+    "query": "water purifier combo pack",
+    "category": "home_kitchen",
+    "popularity": 1314,
+    "landing_quality": 0.62,
+    "business_priority": 0.41
+  },
+  {
+    "query": "buy water purifier online",
+    "category": "home_kitchen",
+    "popularity": 8006,
+    "landing_quality": 0.75,
+    "business_priority": 0.7
+  },
+  {
+    "query": "ceiling light combo pack",
+    "category": "home_kitchen",
+    "popularity": 3222,
+    "landing_quality": 0.45,
+    "business_priority": 0.24
+  },
+  {
+    "query": "ceiling light online",
+    "category": "home_kitchen",
+    "popularity": 5979,
+    "landing_quality": 0.41,
+    "business_priority": 0.68
+  },
+  {
+    "query": "ceiling light discount",
+    "category": "home_kitchen",
+    "popularity": 6232,
+    "landing_quality": 0.67,
+    "business_priority": 0.13
+  },
+  {
+    "query": "dinner set low price",
+    "category": "home_kitchen",
+    "popularity": 4718,
+    "landing_quality": 0.33,
+    "business_priority": 0.97
+  },
+  {
+    "query": "dinner set low price",
+    "category": "home_kitchen",
+    "popularity": 4991,
+    "landing_quality": 0.83,
+    "business_priority": 0.11
+  },
+  {
+    "query": "dinner set best offer",
+    "category": "home_kitchen",
+    "popularity": 6619,
+    "landing_quality": 0.38,
+    "business_priority": 0.31
+  },
+  {
+    "query": "vacuum cleaner 2025 edition",
+    "category": "home_kitchen",
+    "popularity": 6927,
+    "landing_quality": 0.7,
+    "business_priority": 0.68
+  },
+  {
+    "query": "vacuum cleaner 2025 edition",
+    "category": "home_kitchen",
+    "popularity": 8123,
+    "landing_quality": 0.79,
+    "business_priority": 0.68
+  },
+  {
+    "query": "vacuum cleaner best offer",
+    "category": "home_kitchen",
+    "popularity": 6495,
+    "landing_quality": 0.79,
+    "business_priority": 0.41
+  },
+  {
+    "query": "sunscreen low price",
+    "category": "beauty_personal",
+    "popularity": 2147,
+    "landing_quality": 0.89,
+    "business_priority": 0.76
+  },
+  {
+    "query": "sunscreen online",
+    "category": "beauty_personal",
+    "popularity": 2840,
+    "landing_quality": 0.63,
+    "business_priority": 0.9
+  },
+  {
+    "query": "buy sunscreen online",
+    "category": "beauty_personal",
+    "popularity": 6755,
+    "landing_quality": 0.36,
+    "business_priority": 0.55
+  },
+  {
+    "query": "shampoo combo pack",
+    "category": "beauty_personal",
+    "popularity": 7195,
+    "landing_quality": 0.85,
+    "business_priority": 0.18
+  },
+  {
+    "query": "buy shampoo online",
+    "category": "beauty_personal",
+    "popularity": 6787,
+    "landing_quality": 0.32,
+    "business_priority": 0.98
+  },
+  {
+    "query": "shampoo latest",
+    "category": "beauty_personal",
+    "popularity": 5979,
+    "landing_quality": 0.95,
+    "business_priority": 0.54
+  },
+  {
+    "query": "body lotion low price",
+    "category": "beauty_personal",
+    "popularity": 2146,
+    "landing_quality": 0.73,
+    "business_priority": 0.66
+  },
+  {
+    "query": "body lotion sale",
+    "category": "beauty_personal",
+    "popularity": 2865,
+    "landing_quality": 0.99,
+    "business_priority": 0.19
+  },
+  {
+    "query": "buy body lotion online",
+    "category": "beauty_personal",
+    "popularity": 7450,
+    "landing_quality": 0.57,
+    "business_priority": 0.72
+  },
+  {
+    "query": "perfume low price",
+    "category": "beauty_personal",
+    "popularity": 9899,
+    "landing_quality": 0.59,
+    "business_priority": 0.27
+  },
+  {
+    "query": "perfume discount",
+    "category": "beauty_personal",
+    "popularity": 8582,
+    "landing_quality": 0.91,
+    "business_priority": 0.32
+  },
+  {
+    "query": "perfume combo pack",
+    "category": "beauty_personal",
+    "popularity": 8976,
+    "landing_quality": 0.9,
+    "business_priority": 0.95
+  },
+  {
+    "query": "face wash sale",
+    "category": "beauty_personal",
+    "popularity": 2087,
+    "landing_quality": 0.39,
+    "business_priority": 0.89
+  },
+  {
+    "query": "face wash best offer",
+    "category": "beauty_personal",
+    "popularity": 6439,
+    "landing_quality": 0.58,
+    "business_priority": 0.52
+  },
+  {
+    "query": "face wash best offer",
+    "category": "beauty_personal",
+    "popularity": 9440,
+    "landing_quality": 0.39,
+    "business_priority": 0.16
+  },
+  {
+    "query": "t-shirt 2025 edition",
+    "category": "fashion",
+    "popularity": 7241,
+    "landing_quality": 0.95,
+    "business_priority": 0.29
+  },
+  {
+    "query": "t-shirt combo pack",
+    "category": "fashion",
+    "popularity": 7202,
+    "landing_quality": 0.57,
+    "business_priority": 0.9
+  },
+  {
+    "query": "t-shirt sale",
+    "category": "fashion",
+    "popularity": 4946,
+    "landing_quality": 0.75,
+    "business_priority": 0.21
+  },
+  {
+    "query": "jeans sale",
+    "category": "fashion",
+    "popularity": 8504,
+    "landing_quality": 0.43,
+    "business_priority": 0.87
+  },
+  {
+    "query": "jeans 2025 edition",
+    "category": "fashion",
+    "popularity": 8701,
+    "landing_quality": 0.57,
+    "business_priority": 0.25
+  },
+  {
+    "query": "jeans latest",
+    "category": "fashion",
+    "popularity": 5739,
+    "landing_quality": 0.95,
+    "business_priority": 0.24
+  },
+  {
+    "query": "saree sale",
+    "category": "fashion",
+    "popularity": 1936,
+    "landing_quality": 0.74,
+    "business_priority": 0.67
+  },
+  {
+    "query": "saree best offer",
+    "category": "fashion",
+    "popularity": 5590,
+    "landing_quality": 0.33,
+    "business_priority": 0.26
+  },
+  {
+    "query": "saree sale",
+    "category": "fashion",
+    "popularity": 6509,
+    "landing_quality": 0.69,
+    "business_priority": 0.97
+  },
+  {
+    "query": "sports shoes discount",
+    "category": "fashion",
+    "popularity": 5526,
+    "landing_quality": 0.56,
+    "business_priority": 0.15
+  },
+  {
+    "query": "sports shoes buy online",
+    "category": "fashion",
+    "popularity": 5792,
+    "landing_quality": 0.87,
+    "business_priority": 0.74
+  },
+  {
+    "query": "sports shoes combo pack",
+    "category": "fashion",
+    "popularity": 4206,
+    "landing_quality": 0.99,
+    "business_priority": 0.45
+  },
+  {
+    "query": "jacket 2025 edition",
+    "category": "fashion",
+    "popularity": 2154,
+    "landing_quality": 0.99,
+    "business_priority": 0.54
+  },
+  {
+    "query": "jacket latest",
+    "category": "fashion",
+    "popularity": 4798,
+    "landing_quality": 0.34,
+    "business_priority": 0.74
+  },
+  {
+    "query": "jacket online",
+    "category": "fashion",
+    "popularity": 5743,
+    "landing_quality": 0.83,
+    "business_priority": 0.4
+  },
+  {
+    "query": "yoga block best offer",
+    "category": "fitness",
+    "popularity": 1319,
+    "landing_quality": 0.71,
+    "business_priority": 0.9
+  },
+  {
+    "query": "yoga block combo pack",
+    "category": "fitness",
+    "popularity": 1887,
+    "landing_quality": 0.9,
+    "business_priority": 0.81
+  },
+  {
+    "query": "buy yoga block online",
+    "category": "fitness",
+    "popularity": 9151,
+    "landing_quality": 0.66,
+    "business_priority": 0.13
+  },
+  {
+    "query": "buy gym bench online",
+    "category": "fitness",
+    "popularity": 7602,
+    "landing_quality": 0.83,
+    "business_priority": 0.73
+  },
+  {
+    "query": "gym bench latest",
+    "category": "fitness",
+    "popularity": 6468,
+    "landing_quality": 0.39,
+    "business_priority": 0.19
+  },
+  {
+    "query": "gym bench 2025 edition",
+    "category": "fitness",
+    "popularity": 4947,
+    "landing_quality": 0.57,
+    "business_priority": 0.41
+  },
+  {
+    "query": "dumbbell discount",
+    "category": "fitness",
+    "popularity": 4316,
+    "landing_quality": 0.49,
+    "business_priority": 0.92
+  },
+  {
+    "query": "dumbbell discount",
+    "category": "fitness",
+    "popularity": 4779,
+    "landing_quality": 0.5,
+    "business_priority": 0.43
+  },
+  {
+    "query": "buy dumbbell online",
+    "category": "fitness",
+    "popularity": 3029,
+    "landing_quality": 0.66,
+    "business_priority": 0.53
+  },
+  {
+    "query": "buy resistance band online",
+    "category": "fitness",
+    "popularity": 1488,
+    "landing_quality": 0.7,
+    "business_priority": 0.33
+  },
+  {
+    "query": "resistance band combo pack",
+    "category": "fitness",
+    "popularity": 3731,
+    "landing_quality": 0.5,
+    "business_priority": 0.72
+  },
+  {
+    "query": "resistance band buy online",
+    "category": "fitness",
+    "popularity": 724,
+    "landing_quality": 0.62,
+    "business_priority": 0.77
+  },
+  {
+    "query": "buy exercise bike online",
+    "category": "fitness",
+    "popularity": 2577,
+    "landing_quality": 0.5,
+    "business_priority": 0.7
+  },
+  {
+    "query": "exercise bike online",
+    "category": "fitness",
+    "popularity": 1054,
+    "landing_quality": 0.8,
+    "business_priority": 0.66
+  },
+  {
+    "query": "exercise bike combo pack",
+    "category": "fitness",
+    "popularity": 7134,
+    "landing_quality": 0.67,
+    "business_priority": 0.43
+  },
+  {
+    "query": "keyboard buy online",
+    "category": "accessories",
+    "popularity": 9315,
+    "landing_quality": 0.38,
+    "business_priority": 0.85
+  },
+  {
+    "query": "keyboard latest",
+    "category": "accessories",
+    "popularity": 8968,
+    "landing_quality": 0.43,
+    "business_priority": 0.64
+  },
+  {
+    "query": "buy keyboard online",
+    "category": "accessories",
+    "popularity": 3599,
+    "landing_quality": 0.79,
+    "business_priority": 0.29
+  },
+  {
+    "query": "laptop bag discount",
+    "category": "accessories",
+    "popularity": 9313,
+    "landing_quality": 0.63,
+    "business_priority": 0.52
+  },
+  {
+    "query": "laptop bag sale",
+    "category": "accessories",
+    "popularity": 8780,
+    "landing_quality": 0.64,
+    "business_priority": 0.56
+  },
+  {
+    "query": "laptop bag low price",
+    "category": "accessories",
+    "popularity": 8440,
+    "landing_quality": 0.73,
+    "business_priority": 0.89
+  },
+  {
+    "query": "buy mouse pad online",
+    "category": "accessories",
+    "popularity": 2244,
+    "landing_quality": 0.94,
+    "business_priority": 0.66
+  },
+  {
+    "query": "mouse pad combo pack",
+    "category": "accessories",
+    "popularity": 6288,
+    "landing_quality": 0.73,
+    "business_priority": 0.63
+  },
+  {
+    "query": "mouse pad low price",
+    "category": "accessories",
+    "popularity": 600,
+    "landing_quality": 0.52,
+    "business_priority": 0.44
+  },
+  {
+    "query": "usb hub online",
+    "category": "accessories",
+    "popularity": 5426,
+    "landing_quality": 0.49,
+    "business_priority": 0.26
+  },
+  {
+    "query": "usb hub latest",
+    "category": "accessories",
+    "popularity": 972,
+    "landing_quality": 0.41,
+    "business_priority": 0.82
+  },
+  {
+    "query": "usb hub online",
+    "category": "accessories",
+    "popularity": 7518,
+    "landing_quality": 0.65,
+    "business_priority": 0.66
+  },
+  {
+    "query": "webcam best offer",
+    "category": "accessories",
+    "popularity": 2072,
+    "landing_quality": 0.72,
+    "business_priority": 0.91
+  },
+  {
+    "query": "webcam buy online",
+    "category": "accessories",
+    "popularity": 1795,
+    "landing_quality": 0.81,
+    "business_priority": 0.83
+  },
+  {
+    "query": "webcam low price",
+    "category": "accessories",
+    "popularity": 5903,
+    "landing_quality": 0.38,
+    "business_priority": 0.71
+  }
+]

@@ -1,0 +1,46 @@
+# Python virtual environment
+venv/
+.env
+*.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test output
+htmlcov/
+.coverage
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Node.js (React frontend)
+frontend/node_modules/
+frontend/.env
+frontend/build/
+
+# IDE files
+*.idea/
+*.swp
+
+# Other
+*.sqlite3
+*.db

@@ -1,0 +1,55 @@
+/* src/index.css or src/App.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Styling for the rc-slider component */
+.rc-slider-track {
+  background-color: #2874f0; /* Flipkart Blue */
+}
+
+.rc-slider-handle {
+  border: solid 2px #2874f0;
+  background-color: white;
+  opacity: 1;
+  cursor: pointer !important; /* Add !important to override default styles */
+}
+
+.rc-slider-handle:focus,
+.rc-slider-handle:active {
+  border-color: #1a5cbf !important;
+  box-shadow: 0 0 0 5px rgba(40, 116, 240, 0.2) !important;
+}
+
+/* You can add your own custom CSS below these directives */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@keyframes fadeInOut {
+  0%, 100% { opacity: 0; transform: translateY(-20px); }
+  10%, 90% { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in-out {
+  animation: fadeInOut 3s ease-in-out forwards;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

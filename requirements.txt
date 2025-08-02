@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+symspellpy
+rapidfuzz
+sentence-transformers
+scikit-learn
+torch  # Optional: already pulled by sentence-transformers
